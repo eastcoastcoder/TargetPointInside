@@ -1,0 +1,2061 @@
+<!-- Copyright © 2014 Point Inside Inc. -->
+<!-- Map export ruleset version 0.1 -->
+<svg version="1.1" baseProfile="basic" x="0px" y="0px" width="4900px" height="3934px" viewBox="0 0 4900 3934" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Underhallway" pi_extrude="60" pi_zoffset="-61">
+	<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-width="20" stroke-miterlimit="10" points="202,205.5 202,3199.5 202,3446.6    134.9,3446.6 134.9,3555.8 202,3555.8 439.3,3555.8 439.3,3497.3 1668.3,3497.3 1668.3,3555.8 1912.2,3555.8 1973.4,3555.8    1973.4,3446.6 1912.2,3446.6 1912.2,3201.9 3937.5,3201.9 3937.5,3352.9 4719.1,3352.9 4719.1,3201.9 4719.1,205.5  " />
+</g>
+<g id="Department">
+	<polygon fill="#D9D9D9" points="527.4,205.5 527.4,530.8 202,530.8 202,2596.1 275.6,2596.1 275.6,2634.3 335.6,2634.3    335.6,2672.5 577.2,2672.5 577.2,668 599.6,655.6 1476.2,655.6 1476.2,205.5  " />
+	<rect x="668.7" y="755.4" fill="#D9D9D9" width="1323.3" height="882.4" />
+	<rect x="668.7" y="1736.3" fill="#D9D9D9" width="1323.3" height="888.1" />
+</g>
+<g id="Services" pi_extrude="45">
+	<rect x="202" y="205.5" fill="#ECECEC" width="325.4" height="325.3" />
+	<rect x="1143.9" y="3316.3" fill="#ECECEC" width="364.1" height="181" />
+	<polygon fill="#ECECEC" points="556.5,3288.6 556.5,3257.1 351.2,3257.1 351.2,3208.4 627.6,3208.4 627.6,2786.7 351.2,2786.7    202,2786.7 202,3257.1 202,3497.3 556.5,3497.3 760.5,3497.3 760.5,3288.6  " />
+	<rect x="1003" y="2782.7" fill="#ECECEC" width="152.7" height="329.5" />
+</g>
+<g id="Inaccessible" pi_extrude="45">
+	<rect x="3937.5" y="3201.9" fill="#585858" width="781.7" height="151" />
+	<polygon fill="#585858" points="1912.2,3446.6 1912.2,3201.9 1668.3,3201.9 1554.1,3201.9 1554.1,3316.3 1508.1,3316.3    1508.1,3497.3 1554.1,3497.3 1668.3,3497.3 1668.3,3555.8 1973.4,3555.8 1973.4,3446.6  " />
+	<polygon fill="#585858" points="202,3497.3 202,3446.6 134.9,3446.6 134.9,3497.3 134.9,3555.8 439.3,3555.8 439.3,3497.3  " />
+</g>
+<g id="Checkout" pi_extrude="45">
+	<polygon fill="#585858" points="1167.6,3023.3 1167.6,3025.4 1167.6,3025.4 1168.5,3023.3 1185.3,3023.3 1185.3,3101.6    1176.4,3112.3 1155.8,3112.3 1155.8,3023.3  " />
+	<polygon fill="#585858" points="1167.6,2923 1167.6,2925.1 1167.6,2925.1 1168.5,2923 1185.3,2923 1185.3,3001.3 1176.4,3011.9    1155.8,3011.9 1155.8,2923  " />
+	<polygon fill="#585858" points="1167.6,2823 1167.6,2825.2 1167.6,2825.2 1168.5,2823 1185.3,2823 1185.3,2901.3 1176.4,2912    1155.8,2912 1155.8,2823  " />
+	<polygon fill="#585858" points="1759.5,3023.2 1759.5,2986.2 1759.5,2986.2 1761,2983.2 1789.5,2983.2 1789.5,3093.2    1774.5,3108.2 1739.5,3108.2 1739.5,3023.2  " />
+	<polygon fill="#585858" points="1651.4,3024.5 1651.4,2987.5 1651.4,2987.5 1652.9,2984.5 1681.4,2984.5 1681.4,3094.5    1666.4,3109.5 1631.4,3109.5 1631.4,3024.5  " />
+	<polygon fill="#585858" points="1540.3,3024.5 1540.3,2987.5 1540.3,2987.5 1541.8,2984.5 1570.3,2984.5 1570.3,3094.5    1555.3,3109.5 1520.3,3109.5 1520.3,3024.5  " />
+	<polygon fill="#585858" points="1429.1,3024.5 1429.1,2987.5 1429.1,2987.5 1430.6,2984.5 1459.1,2984.5 1459.1,3094.5    1444.1,3109.5 1409.1,3109.5 1409.1,3024.5  " />
+	<polygon fill="#585858" points="1319,3027.5 1319,2990.5 1319,2990.5 1320.5,2987.5 1349,2987.5 1349,3097.5 1334,3112.5    1299,3112.5 1299,3027.5  " />
+	<polygon fill="#585858" points="1289,2822.9 1289,2785.9 1289,2785.9 1290.5,2782.9 1319,2782.9 1319,2892.9 1304,2907.9    1269,2907.9 1269,2822.9  " />
+	<polygon fill="#585858" points="1399.1,2822.9 1399.1,2785.9 1399.1,2785.9 1400.6,2782.9 1429.1,2782.9 1429.1,2892.9    1414.1,2907.9 1379.1,2907.9 1379.1,2822.9  " />
+	<polygon fill="#585858" points="1510.6,2821.8 1510.6,2784.8 1510.6,2784.8 1512.1,2781.8 1540.6,2781.8 1540.6,2891.8    1525.6,2906.8 1490.6,2906.8 1490.6,2821.8  " />
+	<polygon fill="#585858" points="1618.6,2782.9 1618.6,2785.9 1618.6,2785.9 1620.1,2782.9 1648.6,2782.9 1648.6,2892.9    1633.6,2907.9 1598.6,2907.9 1598.6,2782.9  " />
+	<polygon fill="#585858" points="1727.2,2822.9 1727.2,2785.9 1727.2,2785.9 1728.7,2782.9 1757.2,2782.9 1757.2,2892.9    1742.2,2907.9 1707.2,2907.9 1707.2,2822.9  " />
+</g>
+<g id="Store_Shelves" pi_extrude="45">
+	<polygon fill="#ECECEC" points="2104.3,586.6 2104.3,562.9 2007.2,562.9 2007.2,586.6 1981.8,586.6 1981.8,623.7 2128,623.7    2128,586.6  " />
+	<rect x="1988.3" y="542.8" fill="#ECECEC" width="18.9" height="20.1" />
+	<rect x="2104.3" y="542.8" fill="#ECECEC" width="18.9" height="20.1" />
+	<polygon fill="#ECECEC" points="1779.5,2983.2 1759.5,2983.2 1759.5,3023.2 1739.5,3023.2 1739.5,2963.2 1779.5,2963.2  " />
+	<polygon fill="#ECECEC" points="1671.4,2984.5 1651.4,2984.5 1651.4,3024.5 1631.4,3024.5 1631.4,2964.5 1671.4,2964.5  " />
+	<polygon fill="#ECECEC" points="1560.3,2984.5 1540.3,2984.5 1540.3,3024.5 1520.3,3024.5 1520.3,2964.5 1560.3,2964.5  " />
+	<polygon fill="#ECECEC" points="1449.1,2984.5 1429.1,2984.5 1429.1,3024.5 1409.1,3024.5 1409.1,2964.5 1449.1,2964.5  " />
+	<polygon fill="#ECECEC" points="1339,2987.5 1319,2987.5 1319,3027.5 1299,3027.5 1299,2967.5 1339,2967.5  " />
+	<rect x="1016.8" y="2762.8" fill="#ECECEC" width="145.3" height="20" />
+	<rect x="4365.6" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="4253.4" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="4141.9" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="4030.8" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3920" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="2440.5" y="2760.6" fill="#ECECEC" width="40.3" height="342.1" />
+	<rect x="2850.1" y="2761.7" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="4027.9" y="2761.7" fill="#ECECEC" width="46.1" height="341" />
+	<rect x="3907.3" y="2761.7" fill="#ECECEC" width="60.3" height="341" />
+	<rect x="3696.7" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3593.9" y="2761.7" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3482.8" y="2761.7" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3263" y="2761.7" fill="#ECECEC" width="46.1" height="341" />
+	<rect x="3159.9" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3056.8" y="2761.7" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="2953.3" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2747.3" y="2810" fill="#ECECEC" width="42.1" height="292.7" />
+	<rect x="2644.2" y="2760.6" fill="#ECECEC" width="42.5" height="342.1" />
+	<rect x="2541.4" y="2763.1" fill="#ECECEC" width="42.1" height="339.6" />
+	<rect x="2341.3" y="2810" fill="#ECECEC" width="38.5" height="292.7" />
+	<rect x="2240" y="2761.7" fill="#ECECEC" width="40.3" height="341" />
+	<rect x="2136.9" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2034.1" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="1931.3" y="2761.7" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3106.9" y="3163.7" fill="#ECECEC" width="1004.9" height="38.2" />
+	<rect x="2419.4" y="2270" fill="#ECECEC" width="42.5" height="338.3" />
+	<rect x="2522.2" y="2267" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2625.3" y="2267" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2316" y="2267.6" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2728.6" y="2267" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2831.6" y="2267.4" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2933.3" y="2267.4" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3034.2" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3142.8" y="2267.4" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3244.2" y="2267.4" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3345.1" y="2267.4" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3445.7" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3555.8" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3765.7" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3874.6" y="2267.4" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3975.2" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3975.2" y="1745.9" fill="#ECECEC" width="50.5" height="342.1" />
+	<rect x="3865.2" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3754.8" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3654.2" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3552.9" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3451.5" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3350.2" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3249.6" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3148.6" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3041.1" y="1745.7" fill="#ECECEC" width="46.8" height="341" />
+	<rect x="2931.8" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2826.2" y="1745.9" fill="#ECECEC" width="46.5" height="341" />
+	<rect x="2724.5" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2620.6" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2509.8" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2407.1" y="1745.9" fill="#ECECEC" width="42.5" height="342.1" />
+	<rect x="2296.3" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2185.9" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2074.8" y="1745.9" fill="#ECECEC" width="50.5" height="342.1" />
+	<rect x="2074.8" y="2152.3" fill="#ECECEC" width="557.8" height="50.5" />
+	<rect x="2739.7" y="2149" fill="#ECECEC" width="532.4" height="56.7" />
+	<rect x="3419.6" y="2151.2" fill="#ECECEC" width="606.1" height="50.5" />
+	<rect x="2185.9" y="1287.9" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="2286.8" y="1287.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2388.2" y="1289" fill="#ECECEC" width="50.5" height="339.9" />
+	<rect x="2497.5" y="1287.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2598.4" y="1287.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2700.9" y="1286.8" fill="#ECECEC" width="50.5" height="342.1" />
+	<rect x="2812" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2921.7" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2074.8" y="1286.6" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3031.7" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3252.2" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3362.2" y="1287.9" fill="#ECECEC" width="46.5" height="341" />
+	<rect x="3467.1" y="1287.9" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3567.7" y="1286.8" fill="#ECECEC" width="42.5" height="342.1" />
+	<rect x="3669.1" y="1287.9" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3770" y="1287.9" fill="#ECECEC" width="46.5" height="341" />
+	<rect x="3874.6" y="1287.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3975.6" y="1286.8" fill="#ECECEC" width="50.1" height="342.1" />
+	<rect x="3975.2" y="763.1" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3866.6" y="763.1" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3764.9" y="763.1" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3654.5" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3450.8" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="3553.4" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="3348.4" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="3247.1" y="763.5" fill="#ECECEC" width="42.1" height="340.7" />
+	<rect x="3135.9" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="2914" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="2811.3" y="763.5" fill="#ECECEC" width="42.1" height="345" />
+	<rect x="2708.1" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2605" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2502.2" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2399.8" y="763.5" fill="#ECECEC" width="42.1" height="345" />
+	<rect x="2296.3" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2185.9" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3419.6" y="1167" fill="#ECECEC" width="606.1" height="58.5" />
+	<rect x="2735.7" y="1167.7" fill="#ECECEC" width="581.1" height="56.7" />
+	<rect x="2075.5" y="1171" fill="#ECECEC" width="557.8" height="50.5" />
+	<rect x="2194.6" y="305.5" fill="#ECECEC" width="46.5" height="340.7" />
+	<rect x="2299.3" y="305.5" fill="#ECECEC" width="42.5" height="227.7" />
+	<rect x="2399.8" y="305.5" fill="#ECECEC" width="42.5" height="227.7" />
+	<rect x="2500.4" y="305.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2601.7" y="305.5" fill="#ECECEC" width="42.1" height="340.7" />
+	<rect x="2702.3" y="318.6" fill="#ECECEC" width="33.1" height="327.6" />
+	<rect x="2794.9" y="304.8" fill="#ECECEC" width="33" height="231" />
+	<rect x="2888.3" y="304.4" fill="#ECECEC" width="33.1" height="231" />
+	<rect x="3075.6" y="304.4" fill="#ECECEC" width="33.1" height="231" />
+	<rect x="3167.2" y="304.8" fill="#ECECEC" width="33" height="231" />
+	<rect x="3258.7" y="318.6" fill="#ECECEC" width="33" height="327.6" />
+	<rect x="3352.4" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3463.2" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3574.6" y="305.5" fill="#ECECEC" width="50.1" height="244.1" />
+	<rect x="3685" y="305.5" fill="#ECECEC" width="50.5" height="244.1" />
+	<rect x="3808.9" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="4476" y="305.5" fill="#ECECEC" width="50.1" height="340.7" />
+	<rect x="4586.1" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="1761" y="205.5" fill="#ECECEC" width="1939" height="24.2" />
+	<rect x="4167" y="3025.7" fill="#ECECEC" width="438" height="62.5" />
+	<rect x="4167" y="2899.3" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="2598.2" fill="#ECECEC" width="110" height="63.9" />
+	<rect x="4338.4" y="2598.2" fill="#ECECEC" width="110" height="63.9" />
+	<rect x="4167" y="1234.9" fill="#ECECEC" width="439.8" height="64.6" />
+	<rect x="4167" y="763.5" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="2982" y="319.7" fill="#ECECEC" width="33" height="326.5" />
+	<rect x="4167" y="2430.8" fill="#ECECEC" width="427.4" height="88.3" />
+	<rect x="4167" y="2248.9" fill="#ECECEC" width="436.2" height="85.3" />
+	<rect x="4167" y="2084" fill="#ECECEC" width="428.9" height="67.9" />
+	<rect x="4167" y="1002.8" fill="#ECECEC" width="442" height="42.5" />
+	<rect x="4681.2" y="785.3" fill="#ECECEC" width="37.9" height="1999.6" />
+	<rect x="1653.5" y="305.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="1550" y="306.8" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="1769" y="305.5" fill="#ECECEC" width="42.1" height="340.7" />
+	<rect x="1869.6" y="305.5" fill="#ECECEC" width="46.5" height="340.7" />
+	<rect x="3024.8" y="763.5" fill="#ECECEC" width="50.5" height="339.9" />
+	<rect x="4167" y="1963" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="1368.5" fill="#ECECEC" width="438" height="56.7" />
+	<rect x="4167" y="1494.2" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="1614.4" fill="#ECECEC" width="438" height="46.5" />
+	<rect x="4167" y="1729.9" fill="#ECECEC" width="438" height="42.5" />
+	<rect x="4167" y="1842.1" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="883.3" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="1115" fill="#ECECEC" width="439.8" height="50.5" />
+	<rect x="3799.8" y="2761.7" fill="#ECECEC" width="46.1" height="338.8" />
+	<rect x="2207.7" y="3177.5" fill="#ECECEC" width="774.6" height="24.4" />
+	<rect x="851.6" y="1315.9" fill="#ECECEC" width="181.6" height="36.3" />
+	<rect x="851.6" y="1224" fill="#ECECEC" width="181.6" height="36.3" />
+	<rect x="851.6" y="1132.1" fill="#ECECEC" width="181.6" height="36.3" />
+	<rect x="684.5" y="1039.9" fill="#ECECEC" width="326.9" height="36.3" />
+	<rect x="684.5" y="947.6" fill="#ECECEC" width="326.9" height="36.3" />
+	<rect x="1218.8" y="769.3" fill="#ECECEC" width="62.5" height="438" />
+	<rect x="1339.7" y="769.3" fill="#ECECEC" width="42.1" height="438" />
+	<rect x="1440.3" y="769.3" fill="#ECECEC" width="46.5" height="438" />
+	<rect x="1545.3" y="769.3" fill="#ECECEC" width="74.8" height="438" />
+	<rect x="1678.2" y="769.3" fill="#ECECEC" width="70.5" height="438" />
+	<rect x="1927.7" y="769.3" fill="#ECECEC" width="42.1" height="442" />
+	<rect x="1264.5" y="510.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="839.6" y="380" fill="#ECECEC" width="43.3" height="98.1" />
+	<rect x="1264.5" y="281.6" fill="#ECECEC" width="36.3" height="181.6" />
+	<rect x="1356.4" y="510.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="1356.4" y="281.2" fill="#ECECEC" width="36.3" height="181.6" />
+	<rect x="915.9" y="205.5" fill="#ECECEC" width="242.2" height="24.2" />
+	<rect x="661.7" y="205.5" fill="#ECECEC" width="242.2" height="24.2" />
+	<rect x="684.5" y="2479.5" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="684.5" y="2275.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="780" y="2479.5" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="779.3" y="2275.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="874.1" y="2275.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="967.8" y="2275.7" fill="#ECECEC" width="24.3" height="132.9" />
+	<rect x="1052" y="2275.7" fill="#ECECEC" width="23.6" height="132.9" />
+	<rect x="684.9" y="1743.3" fill="#ECECEC" width="30.1" height="323.2" />
+	<rect x="775.3" y="1741.9" fill="#ECECEC" width="30.5" height="159.8" />
+	<rect x="1424.8" y="1850.1" fill="#ECECEC" width="30.5" height="146.7" />
+	<rect x="1766.1" y="1850.1" fill="#ECECEC" width="30.5" height="146.7" />
+	<rect x="1766.1" y="2342.1" fill="#ECECEC" width="30.5" height="146.7" />
+	<rect x="1424.8" y="2342.1" fill="#ECECEC" width="30.5" height="146.7" />
+	<rect x="775.3" y="1951.1" fill="#ECECEC" width="30.5" height="111.5" />
+	<rect x="957.1" y="1998.6" fill="#ECECEC" width="30.5" height="63.9" />
+	<rect x="866.5" y="1743.3" fill="#ECECEC" width="30.1" height="323.2" />
+	<rect x="957.3" y="1741.9" fill="#ECECEC" width="30.1" height="208.5" />
+	<rect x="1237.7" y="2008.1" fill="#ECECEC" width="36.3" height="133.3" />
+	<rect x="1237.7" y="2189.3" fill="#ECECEC" width="36.3" height="133.3" />
+	<rect x="1237.7" y="1828.1" fill="#ECECEC" width="36.3" height="133.3" />
+	<rect x="1200.5" y="1449.2" fill="#ECECEC" width="36.3" height="133.3" />
+	<rect x="1237.7" y="2369.7" fill="#ECECEC" width="36.3" height="133.3" />
+	<polygon fill="#ECECEC" points="1139.2,1826.1 1139.2,2146.1 769.9,2146.1 769.9,2194.4 1139.2,2194.4 1139.2,2510 1187.5,2510    1187.5,1826.1  " />
+	<rect x="1089.8" y="767.9" fill="#ECECEC" width="61.7" height="538.6" />
+	<rect x="1393.8" y="1266.1" fill="#ECECEC" width="74.8" height="42.5" />
+	<rect x="336.6" y="1686.8" fill="#ECECEC" width="100" height="42.5" />
+	<rect x="336.6" y="2045.3" fill="#ECECEC" width="100" height="42.5" />
+	<rect x="470.6" y="1865.4" fill="#ECECEC" width="103.5" height="42.5" />
+	<rect x="1522.4" y="1266.1" fill="#ECECEC" width="74.8" height="42.5" />
+	<rect x="1206.1" y="1266.1" fill="#ECECEC" width="133.3" height="42.5" />
+	<rect x="1383.3" y="1358" fill="#ECECEC" width="42.5" height="231.7" />
+	<rect x="1047.3" y="1743.3" fill="#ECECEC" width="30.1" height="323.2" />
+	<rect x="202" y="668.1" fill="#ECECEC" width="0" height="242.1" />
+	<rect x="202" y="2169.3" fill="#ECECEC" width="0" height="241.9" />
+	<rect x="202" y="1818.1" fill="#ECECEC" width="0" height="338.8" />
+	<rect x="202" y="1164.4" fill="#ECECEC" width="0" height="387.5" />
+	<rect x="3370.9" y="2761.7" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3664.4" y="2267.4" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3142.1" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2074.8" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="2887.9" y="572.8" fill="#ECECEC" width="33" height="73.4" />
+	<rect x="2794.9" y="572.8" fill="#ECECEC" width="33" height="73.4" />
+	<rect x="3075.8" y="572.8" fill="#ECECEC" width="33" height="73.4" />
+	<rect x="3167.2" y="572.8" fill="#ECECEC" width="33" height="73.4" />
+	<rect x="1974.5" y="307.4" fill="#ECECEC" width="50.5" height="171.4" />
+	<rect x="2085" y="307.5" fill="#ECECEC" width="50.5" height="171.4" />
+	<rect x="202" y="2423.5" fill="#ECECEC" width="0" height="145.5" />
+	<rect x="202" y="1563.4" fill="#ECECEC" width="0" height="243.2" />
+	<rect x="202" y="923.6" fill="#ECECEC" width="0" height="96" />
+	<rect x="202" y="559.6" fill="#ECECEC" width="0" height="96" />
+	<rect x="240.7" y="530.8" fill="#ECECEC" width="96" height="24.3" />
+	<rect x="527.4" y="240.1" fill="#ECECEC" width="24.3" height="96" />
+	<rect x="554.1" y="205.5" fill="#ECECEC" width="96" height="24.2" />
+	<polygon fill="#ECECEC" points="1467,239.1 1467,205.5 1448.7,205.5 1448.7,239.1 1448.7,654.5 1492.2,654.5 1492.2,239.1  " />
+	<rect x="1169.6" y="205.5" fill="#ECECEC" width="243" height="24.2" />
+	<rect x="1492.2" y="205.5" fill="#ECECEC" width="145.9" height="24.2" />
+	<rect x="2299.2" y="572.8" fill="#ECECEC" width="42.5" height="73.4" />
+	<rect x="2399.6" y="572.4" fill="#ECECEC" width="42.5" height="73.4" />
+	<rect x="3574.6" y="593.8" fill="#ECECEC" width="50.1" height="52.4" />
+	<rect x="3685.1" y="595" fill="#ECECEC" width="50.1" height="52.4" />
+	<rect x="3822.3" y="205.5" fill="#ECECEC" width="873.1" height="23.4" />
+	<rect x="4695.4" y="232.2" fill="#ECECEC" width="23.7" height="435.4" />
+	<polygon fill="#ECECEC" points="2075.8,2297 2075.8,2304.8 2075.8,2606.6 2096.5,2606.6 2096.5,2304.8 2096.5,2297  " />
+	<polygon fill="#ECECEC" points="2156.5,2297 2156.5,2304.8 2156.5,2606.6 2177.2,2606.6 2177.2,2304.8 2177.2,2297  " />
+	<polygon fill="#ECECEC" points="2236.4,2297 2236.4,2304.8 2236.4,2606.6 2257.1,2606.6 2257.1,2304.8 2257.1,2297  " />
+	<rect x="4513.5" y="2590.9" fill="#ECECEC" width="96" height="79.1" />
+	<rect x="4696.1" y="2799.4" fill="#ECECEC" width="23" height="363.2" />
+	<rect x="4221.8" y="3163.7" fill="#ECECEC" width="474.3" height="38.2" />
+	<rect x="1870.7" y="3173.1" fill="#ECECEC" width="231" height="28.8" />
+	<polygon fill="#ECECEC" points="1832.5,2761.7 1832.5,2784.9 1832.5,2979.4 1851,2979.4 1851,3173.1 1870.7,3173.1 1870.7,2784.9    1870.7,2761.7  " />
+	<rect x="979.4" y="2786.7" fill="#ECECEC" width="23.6" height="120.9" />
+	<rect x="842.5" y="2909.1" fill="#ECECEC" width="136.9" height="23.6" />
+	<rect x="877.6" y="2762.8" fill="#ECECEC" width="42.9" height="96.6" />
+	<polygon fill="#ECECEC" points="1036.2,2464.1 977.6,2464.1 977.6,2485.6 1027.1,2485.6 1057.9,2515.3 1058.2,2515.6    1058.2,2562.9 1058.1,2563 1027.1,2592.8 930.3,2592.8 899.3,2563 899.5,2563 899.5,2515.3 930.3,2485.6 930.3,2464.1    921.1,2464.1 877,2506.6 877,2571.8 921.1,2614.4 1036.2,2614.4 1080.4,2571.8 1080.4,2506.6  " />
+	<polygon fill="#ECECEC" points="1733.7,2117 1733.7,2117 1444.7,2117 1444.7,2117 1414.9,2117 1414.9,2153.7 1444.7,2153.7    1444.7,2153.7 1733.7,2153.7 1733.7,2153.7 1761.4,2153.7 1761.4,2117  " />
+	<rect x="1806.9" y="769.3" fill="#ECECEC" width="61.5" height="438" />
+	<polygon fill="#ECECEC" points="4167,2742.1 4167,2823.4 4208.4,2823.4 4595.9,2823.4 4595.9,2799.4 4595.9,2742.1  " />
+	<rect x="1598.6" y="2762.9" fill="#ECECEC" width="40" height="20" />
+	<rect x="202" y="559.6" fill="#ECECEC" width="24.2" height="96" />
+	<rect x="202" y="668.1" fill="#ECECEC" width="24.2" height="242.1" />
+	<rect x="202" y="923.6" fill="#ECECEC" width="24.2" height="96" />
+	<rect x="202" y="1164.4" fill="#ECECEC" width="24.5" height="387.5" />
+	<rect x="202" y="1563.4" fill="#ECECEC" width="24.2" height="243.2" />
+	<rect x="202" y="1818.1" fill="#ECECEC" width="24.2" height="338.8" />
+	<rect x="202" y="2169.3" fill="#ECECEC" width="24.2" height="241.9" />
+	<rect x="202" y="2423.5" fill="#ECECEC" width="24.2" height="145.5" />
+	<rect x="1269" y="2762.9" fill="#ECECEC" width="40" height="20" />
+	<rect x="1379.1" y="2762.9" fill="#ECECEC" width="40" height="20" />
+	<rect x="1490.6" y="2761.8" fill="#ECECEC" width="40" height="20" />
+	<rect x="1707.2" y="2762.9" fill="#ECECEC" width="40" height="20" />
+</g>
+<g id="Department_Shapes" display="none" pi_extrude="45">
+	<g id="Dept_44">
+		<polygon fill="#FF5B4D" points="202,882.5 202,2614.4 577.2,2614.4 577.2,882.5   " />
+	</g>
+	<g id="Dept_0">
+		<polygon fill="#FF5B4D" points="627.6,3068.5 627.6,3200.9 668.4,3200.9 668.4,3068.5   " />
+	</g>
+	<g id="Dept_47">
+		<polygon fill="#FF5B4D" points="683.7,1736.3 683.7,2170.9 1163.5,2170.9 1163.5,1736.3   " />
+	</g>
+	<g id="Dept_26">
+		<polygon fill="#FF5B4D" points="683.7,1076.7 1011.4,1076.7 1011.4,948.3 683.7,948.3   " />
+	</g>
+	<g id="Dept_56">
+		<polygon fill="#FF5B4D" points="683.7,942 683.7,1441.4 1138.1,1441.4 1138.1,942   " />
+	</g>
+	<g id="Dept_30">
+		<polygon fill="#FF5B4D" points="683.7,1637.8 1090.7,1637.8 1090.7,1499.3 683.7,1499.3   " />
+	</g>
+	<g id="Dept_5">
+		<polygon fill="#FF5B4D" points="683.7,755.4 683.7,966.4 1029.7,966.4 1029.7,755.4   " />
+	</g>
+	<g id="Dept_43">
+		<polygon fill="#FF5B4D" points="842.5,2753.5 842.5,2933.4 1003.1,2933.4 1003.1,2753.5   " />
+	</g>
+	<g id="Dept_31">
+		<polygon fill="#FF5B4D" points="683.7,2146.6 683.7,2614.4 1163.5,2614.4 1163.5,2146.6   " />
+	</g>
+	<g id="Dept_36">
+		<polygon fill="#FF5B4D" points="280.3,283.4 280.3,820.4 1200.4,820.4 1200.4,283.4   " />
+	</g>
+	<g id="Dept_59">
+		<polygon fill="#FF5B4D" points="1218.6,755.4 1218.6,1425.3 1972,1425.3 1972,755.4   " />
+	</g>
+	<g id="Dept_71">
+		<polygon fill="#FF5B4D" points="1114.1,755.4 1114.1,1283 1486.7,1283 1486.7,755.4   " />
+	</g>
+	<g id="Dept_57">
+		<polygon fill="#FF5B4D" points="1163.5,2486.6 1366.6,2486.6 1366.6,1855 1163.5,1855   " />
+	</g>
+	<g id="Dept_8">
+		<polygon fill="#FF5B4D" points="1016.7,2753.5 1016.7,2982.4 1847.9,2982.4 1847.9,2753.5   " />
+	</g>
+	<g id="Dept_53">
+		<polygon fill="#FF5B4D" points="527.4,205.5 527.4,655.6 1492,655.6 1492,205.5   " />
+	</g>
+	<g id="Dept_20">
+		<polygon fill="#FF5B4D" points="1139.1,2099.6 1139.1,2614.4 1972,2614.4 1972,2099.6   " />
+	</g>
+	<g id="Dept_6">
+		<polygon fill="#FF5B4D" points="1139.1,1736.3 1139.1,2135.8 1972,2135.8 1972,1736.3   " />
+	</g>
+	<g id="Dept_29">
+		<polygon fill="#FF5B4D" points="1137.3,1267.1 1137.3,1637.8 1972,1637.8 1972,1267.1   " />
+	</g>
+	<g id="Dept_50">
+		<polygon fill="#FF5B4D" points="2074.7,2178.2 2074.7,2614.4 2975.6,2614.4 2975.6,2178.2   " />
+	</g>
+	<g id="Dept_15">
+		<polygon fill="#FF5B4D" points="2601.3,305.1 2601.3,655.6 3377.3,655.6 3377.3,305.1   " />
+	</g>
+	<g id="Dept_14">
+		<polygon fill="#FF5B4D" points="1466.8,205.5 1466.8,655.6 2643.6,655.6 2643.6,205.5   " />
+	</g>
+	<g id="Dept_69">
+		<polygon fill="#FF5B4D" points="1832.3,3201.9 2280.2,3201.9 2280.2,2753.5 1832.3,2753.5   " />
+	</g>
+	<g id="Dept_68">
+		<polygon fill="#FF5B4D" points="2207.7,2753.5 2207.7,3201.9 2995.5,3201.9 2995.5,2753.5   " />
+	</g>
+	<g id="Dept_52">
+		<polygon fill="#FF5B4D" points="2074.7,755.4 2074.7,1193.7 3316.3,1193.7 3316.3,755.4   " />
+	</g>
+	<g id="Dept_70">
+		<polygon fill="#FF5B4D" points="2953.1,2753.5 2953.1,3103.3 3309,3103.3 3309,2753.5   " />
+	</g>
+	<g id="Dept_33">
+		<polygon fill="#FF5B4D" points="3312.3,655.6 3505.9,655.6 3505.9,205.5 3312.3,205.5   " />
+	</g>
+	<g id="Dept_37">
+		<polygon fill="#FF5B4D" points="3462.9,205.5 3462.9,655.6 3919.1,655.6 3919.1,205.5   " />
+	</g>
+	<g id="Dept_27">
+		<polygon fill="#FF5B4D" points="3106.7,2753.5 3106.7,3201.9 3635.7,3201.9 3635.7,2753.5   " />
+	</g>
+	<g id="Dept_72">
+		<polygon fill="#FF5B4D" points="2735.3,1637.8 4027.9,1637.8 4027.9,1193.7 2735.3,1193.7   " />
+	</g>
+	<g id="Dept_12">
+		<polygon fill="#FF5B4D" points="2074.7,1196.8 2074.7,2178.2 3088.2,2178.2 3088.2,1196.8   " />
+		<polygon fill="#FF5B4D" points="4027.9,1559 4027.9,1559 4027.9,1312.8 4027.9,1312.8   " />
+	</g>
+	<g id="Dept_73">
+		<polygon fill="#FF5B4D" points="2739.6,1736.3 2739.6,2614.4 4027.9,2614.4 4027.9,1736.3   " />
+		<polygon fill="#FF5B4D" points="3593.3,2753.5 3593.3,3103.3 3738.7,3103.3 3738.7,2753.5   " />
+	</g>
+	<g id="Dept_45">
+		<polygon fill="#FF5B4D" points="3833.9,205.5 3833.9,814.6 4719.1,814.6 4719.1,205.5   " />
+	</g>
+	<g id="Dept_48">
+		<polygon fill="#FF5B4D" points="3160.9,755.4 3160.9,1200.8 4027.9,1200.8 4027.9,755.4   " />
+	</g>
+	<g id="Dept_40">
+		<polygon fill="#FF5B4D" points="3627.1,2753.5 3627.1,3201.9 4111.4,3201.9 4111.4,2753.5   " />
+	</g>
+	<g id="Dept_74">
+		<polygon fill="#FF5B4D" points="4164.3,755.4 4164.3,1938.4 4719.1,1938.4 4719.1,755.4   " />
+	</g>
+	<g id="Dept_17">
+		<polygon fill="#FF5B4D" points="4164.3,1938.4 4164.3,2465.4 4719.1,2465.4 4719.1,1938.4   " />
+	</g>
+	<g id="Dept_11">
+		<polygon fill="#FF5B4D" points="4303.7,2519.7 4352,2519.7 4352,2476 4303.7,2476   " />
+	</g>
+	<g id="Dept_42">
+		<polygon fill="#FF5B4D" points="4164.3,2787.1 4402.3,2787.1 4402.3,2598.8 4164.3,2598.8   " />
+	</g>
+	<g id="Dept_13">
+		<polygon fill="#FF5B4D" points="4164.3,1369.4 4164.3,2334.6 4604.3,2334.6 4604.3,1369.4   " />
+	</g>
+	<g id="Dept_4">
+		<polygon fill="#FF5B4D" points="4338.1,2663 4448,2663 4448,2598.8 4338.1,2598.8   " />
+	</g>
+	<g id="Dept_10">
+		<polygon fill="#FF5B4D" points="4497.4,2281.3 4497.4,2785.5 4719.1,2785.5 4719.1,2281.3   " />
+		<polygon fill="#FF5B4D" points="4164.3,2807.7 4201.8,2807.7 4201.8,2776.2 4164.3,2776.2   " />
+	</g>
+	<g id="Dept_35">
+		<polygon fill="#FF5B4D" points="4206.7,2431.3 4206.7,2670.3 4610.6,2670.3 4610.6,2431.3   " />
+	</g>
+	<g id="Dept_28">
+		<polygon fill="#FF5B4D" points="4164.3,2800 4164.3,3201.9 4719.1,3201.9 4719.1,2800   " />
+	</g>
+</g>
+<g id="Copyright">
+	
+		<text transform="matrix(1 0 0 1 4447.2334 3924.7183)" fill="#DEDEDE" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">© 2016 Point Inside</text>
+</g>
+<g id="Department_Text" class="level1 h1 mergeTspans billboardScreen">
+	
+		<text transform="matrix(1 0 0 1 3630.2996 957.1667)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">automotive</text>
+	
+		<text transform="matrix(1 0 0 1 784.8206 957.1666)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">activewear</text>
+	
+		<text transform="matrix(1 0 0 1 1611.6354 1930.5547)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">boys</text>
+	
+		<text transform="matrix(1 0 0 1 1331.259 957.1671)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">baby</text>
+	
+		<text transform="matrix(1 0 0 1 2526.0142 2970.8103)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">beauty</text>
+	
+		<text transform="matrix(1 0 0 1 2334.104 1488.7135)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">bedding</text>
+	
+		<text transform="matrix(1 0 0 1 2374.0676 1930.5543)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">bath</text>
+	
+		<text transform="matrix(1 0 0 1 4326.9888 1724.9724)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">grocery</text>
+	
+		<text transform="matrix(1 0 0 1 2854.8728 505.5052)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">entertainment</text>
+	
+		<text transform="matrix(1 0 0 1 1936.1084 505.505)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">electronics</text>
+	
+		<text transform="matrix(1 0 0 1 1616.5903 2454.6199)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">girls</text>
+	
+		<text transform="matrix(1 0 0 1 1967.6553 2970.8096)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">healthcare</text>
+	<text transform="matrix(1 0 0 1 3691.9346 1459.9133)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">home</tspan><tspan x="-2.8" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">decor</tspan></text>
+	<text transform="matrix(1 0 0 1 2946.3276 1901.7546)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">home</tspan><tspan x="-81.9" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">improvement</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 823.2295 1254.505)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">hosiery</text>
+	<text transform="matrix(1 0 0 1 3220.1594 1459.9137)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">home</tspan><tspan x="-61" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">furnishings</tspan></text>
+	<text transform="matrix(1 0 0 1 3283.3164 2942.0103)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">household</tspan><tspan x="21.5" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">supplies</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 305.8091 1488.7131)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">maternity</text>
+	
+		<text transform="matrix(1 0 0 1 792.4224 505.5052)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">menswear</text>
+	<text transform="matrix(1 0 0 1 2876.958 2942.0103)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">personal</tspan><tspan x="46.7" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">care</tspan></text>
+	<text transform="matrix(1 0 0 1 3716.1477 2942.01)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">pet</tspan><tspan x="-12.2" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">care</tspan></text>
+	<text transform="matrix(1 0 0 1 2353.2351 2425.8203)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">cards/</tspan><tspan x="13.3" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">party</tspan></text>
+	<text transform="matrix(1 0 0 1 3660.4141 1901.7543)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">storage/</tspan><tspan x="-43.9" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">organization</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 838.2021 1930.5541)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">shoes</text>
+	<text transform="matrix(1 0 0 1 3189.4358 928.3668)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">sporting</tspan><tspan x="22.8" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">goods</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 4016.563 505.5051)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">seasonal</text>
+	<text transform="matrix(1 0 0 1 2925.012 2425.8203)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">school/</tspan><tspan x="19.2" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">office</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 3671.8169 2454.6204)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">kitchen</text>
+	<text transform="matrix(1 0 0 1 2727.1079 1459.9135)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">kids</tspan><tspan x="-10.5" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">room</tspan></text>
+	<text transform="matrix(1 0 0 1 816.9092 2425.8203)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">jewelry/</tspan><tspan x="-44.3" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">accessories</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 266.7908 2177.8665)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">womenswear</text>
+	
+		<text transform="matrix(1 0 0 1 3334.9346 505.5051)" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">travel</text>
+	<text transform="matrix(1 0 0 1 2367.7249 928.367)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">toys/</tspan><tspan x="-16.3" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">games</tspan></text>
+	<text transform="matrix(1 0 0 1 318.9126 928.3671)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">womens</tspan><tspan x="43.4" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">plus</tspan></text>
+	<text transform="matrix(1 0 0 1 793.8086 1459.9132)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">intimates/</tspan><tspan x="-1.9" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">sleepwear</tspan></text>
+	<text transform="matrix(1 0 0 1 1593.0913 1459.9136)"><tspan x="0" y="0" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">infant/</tspan><tspan x="-7.4" y="50.4" fill="#585858" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">toddler</tspan></text>
+</g>
+<g id="Directional_Icons">
+	<g id="entry1_1_">
+		<g>
+			<path fill="#FFFFFF" d="M945.8,3292.5c-1.6,0-3.1-0.6-4.3-1.8l-18.9-18.9l-18.9,18.9c-2.4,2.4-6.2,2.4-8.6,0     c-2.4-2.4-2.4-6.2,0-8.6l23.2-23.2c2.4-2.4,6.2-2.4,8.6,0l23.2,23.2c2.4,2.4,2.4,6.2,0,8.6     C948.9,3291.9,947.4,3292.5,945.8,3292.5z" />
+			<path fill="#9D9D9D" d="M945.8,3290.1c-1,0-1.9-0.4-2.7-1.1l-20.6-20.6L902,3289c-1.5,1.5-3.9,1.5-5.3,0c-1.5-1.5-1.5-3.9,0-5.3     l23.2-23.2c1.5-1.5,3.9-1.5,5.3,0l23.2,23.2c1.5,1.5,1.5,3.9,0,5.3C947.7,3289.8,946.8,3290.1,945.8,3290.1z" />
+		</g>
+		<g>
+			<path fill="#414141" d="M845.1,3344c0,1.5,0.2,2.9,0.6,4.2c0.4,1.4,1,2.5,1.9,3.6c0.8,1,1.9,1.8,3.1,2.4c1.3,0.6,2.8,0.9,4.5,0.9     c2.4,0,4.4-0.5,5.8-1.6c1.5-1,2.6-2.6,3.3-4.7h7.8c-0.4,2-1.2,3.9-2.3,5.4c-1.1,1.6-2.3,2.9-3.9,4c-1.5,1.1-3.2,1.9-5,2.5     c-1.9,0.6-3.8,0.8-5.8,0.8c-3,0-5.6-0.5-7.8-1.5c-2.3-1-4.2-2.3-5.8-4.1c-1.6-1.7-2.8-3.8-3.6-6.2c-0.8-2.4-1.2-5.1-1.2-8     c0-2.7,0.4-5.2,1.3-7.6c0.8-2.4,2.1-4.5,3.6-6.3c1.6-1.8,3.5-3.3,5.7-4.3c2.2-1.1,4.7-1.6,7.6-1.6c3,0,5.6,0.6,8,1.9     c2.3,1.2,4.3,2.9,5.8,4.9c1.5,2,2.7,4.4,3.4,7c0.7,2.6,0.9,5.4,0.5,8.2H845.1z M864.4,3338.6c-0.1-1.3-0.4-2.6-0.8-3.8     c-0.5-1.2-1.1-2.3-1.9-3.2c-0.8-0.9-1.8-1.6-2.9-2.2c-1.1-0.6-2.4-0.8-3.8-0.8c-1.5,0-2.8,0.3-4,0.8c-1.2,0.5-2.2,1.2-3.1,2.1     c-0.8,0.9-1.5,2-2,3.2c-0.5,1.2-0.8,2.5-0.8,3.9H864.4z" />
+			<path fill="#414141" d="M879,3323.1h7.8v5.5l0.1,0.1c1.3-2.1,2.9-3.7,4.9-4.9c2-1.2,4.3-1.8,6.8-1.8c4.1,0,7.4,1.1,9.7,3.2     c2.4,2.1,3.6,5.3,3.6,9.6v25.8h-8.3v-23.6c-0.1-3-0.7-5.1-1.9-6.4c-1.2-1.3-3-2-5.4-2c-1.4,0-2.7,0.3-3.8,0.8     c-1.1,0.5-2.1,1.2-2.8,2.1c-0.8,0.9-1.4,2-1.8,3.2c-0.4,1.2-0.7,2.5-0.7,3.9v22.2H879V3323.1z" />
+			<path fill="#414141" d="M916.9,3323.1h6.2v-11.3h8.3v11.3h7.5v6.2h-7.5v20.1c0,0.9,0,1.6,0.1,2.3c0.1,0.6,0.2,1.2,0.5,1.6     c0.3,0.4,0.7,0.8,1.2,1c0.5,0.2,1.3,0.3,2.2,0.3c0.6,0,1.2,0,1.7,0c0.6,0,1.2-0.1,1.7-0.3v6.4c-0.9,0.1-1.8,0.2-2.7,0.3     c-0.9,0.1-1.8,0.1-2.7,0.1c-2.2,0-3.9-0.2-5.3-0.6c-1.3-0.4-2.4-1-3.1-1.8c-0.8-0.8-1.3-1.8-1.5-3c-0.3-1.2-0.4-2.6-0.5-4.1     v-22.2h-6.2V3323.1z" />
+			<path fill="#414141" d="M944.9,3323.1h7.8v7.3h0.1c0.2-1,0.7-2,1.4-3c0.7-1,1.5-1.9,2.5-2.7c1-0.8,2.1-1.4,3.3-1.9     c1.2-0.5,2.4-0.7,3.7-0.7c1,0,1.6,0,2,0.1c0.4,0,0.7,0.1,1.1,0.1v8c-0.6-0.1-1.2-0.2-1.8-0.3c-0.6-0.1-1.2-0.1-1.8-0.1     c-1.4,0-2.7,0.3-4,0.8c-1.2,0.6-2.3,1.4-3.2,2.5c-0.9,1.1-1.6,2.4-2.2,4c-0.5,1.6-0.8,3.4-0.8,5.5v17.9h-8.3V3323.1z" />
+			<path fill="#414141" d="M971.2,3323.1h9.1l9.8,28h0.1l9.5-28h8.6l-14.6,39.6c-0.7,1.7-1.3,3.3-2,4.9c-0.7,1.5-1.5,2.9-2.4,4.1     c-0.9,1.2-2.1,2.1-3.5,2.8c-1.4,0.7-3.2,1.1-5.4,1.1c-1.9,0-3.9-0.1-5.7-0.4v-7c0.7,0.1,1.3,0.2,2,0.3c0.6,0.1,1.3,0.2,2,0.2     c1,0,1.8-0.1,2.4-0.4c0.6-0.2,1.1-0.6,1.6-1.1c0.4-0.5,0.8-1,1.1-1.6c0.3-0.6,0.6-1.4,0.8-2.2l0.9-2.9L971.2,3323.1z" />
+		</g>
+	</g>
+	<g id="entry3_1_">
+		<g>
+			<path fill="#FFFFFF" d="M395.9,2753.3c0-1.6,0.6-3.1,1.8-4.3l18.9-18.9l-18.9-18.9c-2.4-2.4-2.4-6.2,0-8.6c2.4-2.4,6.2-2.4,8.6,0     l23.2,23.2c2.4,2.4,2.4,6.2,0,8.6l-23.2,23.2c-2.4,2.4-6.2,2.4-8.6,0C396.5,2756.4,395.9,2754.8,395.9,2753.3z" />
+			<path fill="#9D9D9D" d="M398.2,2753.3c0-1,0.4-1.9,1.1-2.7l20.6-20.6l-20.6-20.6c-1.5-1.5-1.5-3.9,0-5.3c1.5-1.5,3.9-1.5,5.3,0     l23.2,23.2c1.5,1.5,1.5,3.9,0,5.3l-23.2,23.2c-1.5,1.5-3.9,1.5-5.3,0C398.6,2755.2,398.2,2754.3,398.2,2753.3z" />
+		</g>
+		<g>
+			<path fill="#414141" d="M202.5,2730.4c0,1.5,0.2,2.9,0.6,4.2c0.4,1.4,1,2.5,1.9,3.6c0.8,1,1.9,1.8,3.1,2.4     c1.3,0.6,2.8,0.9,4.5,0.9c2.4,0,4.4-0.5,5.8-1.6c1.5-1,2.6-2.6,3.3-4.7h7.8c-0.4,2-1.2,3.9-2.3,5.4c-1.1,1.6-2.3,2.9-3.9,4     c-1.5,1.1-3.2,1.9-5,2.5c-1.9,0.6-3.8,0.8-5.8,0.8c-3,0-5.6-0.5-7.8-1.5c-2.3-1-4.2-2.3-5.8-4.1c-1.6-1.7-2.8-3.8-3.6-6.2     c-0.8-2.4-1.2-5.1-1.2-8c0-2.7,0.4-5.2,1.3-7.6c0.8-2.4,2.1-4.5,3.6-6.3c1.6-1.8,3.5-3.3,5.7-4.3c2.2-1.1,4.7-1.6,7.6-1.6     c3,0,5.6,0.6,8,1.9c2.3,1.2,4.3,2.9,5.8,4.9c1.5,2,2.7,4.4,3.4,7c0.7,2.6,0.9,5.4,0.5,8.2H202.5z M221.9,2724.9     c-0.1-1.3-0.4-2.6-0.8-3.8c-0.5-1.2-1.1-2.3-1.9-3.2c-0.8-0.9-1.8-1.6-2.9-2.2c-1.1-0.6-2.4-0.8-3.8-0.8c-1.5,0-2.8,0.3-4,0.8     c-1.2,0.5-2.2,1.2-3.1,2.1c-0.8,0.9-1.5,2-2,3.2c-0.5,1.2-0.8,2.5-0.8,3.9H221.9z" />
+			<path fill="#414141" d="M236.5,2709.4h7.8v5.5l0.1,0.1c1.3-2.1,2.9-3.7,4.9-4.9c2-1.2,4.3-1.8,6.8-1.8c4.1,0,7.4,1.1,9.7,3.2     c2.4,2.1,3.6,5.3,3.6,9.6v25.8h-8.3v-23.6c-0.1-3-0.7-5.1-1.9-6.4c-1.2-1.3-3-2-5.4-2c-1.4,0-2.7,0.3-3.8,0.8     c-1.1,0.5-2.1,1.2-2.8,2.1c-0.8,0.9-1.4,2-1.8,3.2c-0.4,1.2-0.7,2.5-0.7,3.9v22.2h-8.3V2709.4z" />
+			<path fill="#414141" d="M274.4,2709.4h6.2v-11.3h8.3v11.3h7.5v6.2h-7.5v20.1c0,0.9,0,1.6,0.1,2.3c0.1,0.6,0.2,1.2,0.5,1.6     c0.3,0.4,0.7,0.8,1.2,1c0.5,0.2,1.3,0.3,2.2,0.3c0.6,0,1.2,0,1.7,0c0.6,0,1.2-0.1,1.7-0.3v6.4c-0.9,0.1-1.8,0.2-2.7,0.3     c-0.9,0.1-1.8,0.1-2.7,0.1c-2.2,0-3.9-0.2-5.3-0.6c-1.3-0.4-2.4-1-3.1-1.8c-0.8-0.8-1.3-1.8-1.5-3c-0.3-1.2-0.4-2.6-0.5-4.1     v-22.2h-6.2V2709.4z" />
+			<path fill="#414141" d="M302.4,2709.4h7.8v7.3h0.1c0.2-1,0.7-2,1.4-3c0.7-1,1.5-1.9,2.5-2.7c1-0.8,2.1-1.4,3.3-1.9     c1.2-0.5,2.4-0.7,3.7-0.7c1,0,1.6,0,2,0.1c0.4,0,0.7,0.1,1.1,0.1v8c-0.6-0.1-1.2-0.2-1.8-0.3c-0.6-0.1-1.2-0.1-1.8-0.1     c-1.4,0-2.7,0.3-4,0.8c-1.2,0.6-2.3,1.4-3.2,2.5c-0.9,1.1-1.6,2.4-2.2,4c-0.5,1.6-0.8,3.4-0.8,5.5v17.9h-8.3V2709.4z" />
+			<path fill="#414141" d="M328.7,2709.4h9.1l9.8,28h0.1l9.5-28h8.6l-14.6,39.6c-0.7,1.7-1.3,3.3-2,4.9c-0.7,1.6-1.5,2.9-2.4,4.1     c-0.9,1.2-2.1,2.1-3.5,2.8c-1.4,0.7-3.2,1.1-5.4,1.1c-1.9,0-3.9-0.1-5.7-0.4v-7c0.7,0.1,1.3,0.2,2,0.3c0.6,0.1,1.3,0.2,2,0.2     c1,0,1.8-0.1,2.4-0.4c0.6-0.2,1.1-0.6,1.6-1.1c0.4-0.5,0.8-1,1.1-1.6c0.3-0.6,0.6-1.4,0.8-2.2l0.9-2.9L328.7,2709.4z" />
+		</g>
+	</g>
+</g>
+<g id="Aisle_Numbers" pi_zoffset="45" class="level0 mergeTspans">
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1629.5461)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G26</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1543.2611)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G27</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1745.0313)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G24</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1659.4786)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G25</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1857.2545)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G22</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1770.9657)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G23</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1978.187)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G20</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1891.1753)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G21</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1509.3345)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G28</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1423.7783)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G29</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2660.7322)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G7</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2757.2588)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G6</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2821.9797)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G5</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 2914.4414)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G4</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 2948.3628)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G3</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 3040.822)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G2</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 3086.7275)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G1</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4338.397 2660.7322)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G9</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4220.2114 2613.3738)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1391.2986 462.7944)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O16</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1371.5417 462.7944)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1391.2986 643.6538)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1371.5415 643.6538)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1299.4196 463.1611)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1279.6591 463.1611)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3460.8608 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B29</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3386.1941 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B28</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3360.2598 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B27</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3284.8735 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B26</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3259.2983 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B25</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3183.9121 2608.4053)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B24</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3157.9771 2608.4053)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B23</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3083.311 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B22</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3049.3862 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B21</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2974.3638 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B20</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3624.7676 2166.3118)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C40</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3235.4526 2164.1357)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C41</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2595.9043 2167.4011)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C42</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 224.8333 910.2202)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">H10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 224.833 2568.9985)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">H11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2341.1765 533.2471)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2414.7813 645.769)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F19</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3512.2144 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F47</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2735.7246 1222.9458)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D39</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3915.7021 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D36</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2209.7407 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3990.7229 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D37</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3287.7754 798.3418)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E24</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3363.5283 798.3418)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E25</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3389.4636 798.3418)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E26</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3465.9451 798.3418)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E27</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3073.8745 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E20</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3151.0779 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E21</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3184.9954 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E22</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3262.2048 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E23</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3491.8828 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E28</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3568.5376 798.3418)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E29</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 2012.1107)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G19</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2099.1221)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G18</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2150.4814)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G17</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2264.0071)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G16</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2332.7927)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G15</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2445.9526)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G14</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.98 2517.6436)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G13</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4513.4741 2606.0417)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G12</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4513.4741 2668.6133)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G11</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4380.874 2613.374)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1463.7903 276.5215)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O17</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1490.8104 654.5483)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1565.1177 647.4922)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1591.052 647.4922)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1668.6177 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1694.5518 646.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1784.1028 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1809.6768 646.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1884.7036 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1914.6296 646.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 550.349 336.1187)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O19</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 554.0963 228.226)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3199.0178 535.792)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F41</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3182.9927 535.792)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F40</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3290.4287 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F43</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3274.4041 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F42</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3401.4473 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F45</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3367.5266 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F44</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4024.2842 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D38</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3478.2932 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F46</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3589.7871 549.5918)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F49</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3815.0977 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D34</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3889.7646 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D35</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3709.7852 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D32</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3785.1714 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D33</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3608.8203 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D30</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3684.2083 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D31</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1252.791 2502.9971)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1272.5483 2322.5908)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1272.5481 2502.9971)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L5</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2075.4785 1220.0371)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D40</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1252.791 2322.5908)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1272.5483 2141.3662)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L9</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3989.0244 2166.3118)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C39</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4024.2842 1782.5576)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C38</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3880.3252 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C35</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3803.8428 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C34</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3990.363 1782.5566)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C37</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3914.2405 1782.5547)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C36</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3669.3206 1782.5547)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C31</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3593.9248 1782.5547)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C30</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3769.9185 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C33</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3695.2556 1782.5547)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C32</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1299.4196 643.6533)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O10</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 778.636)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G40</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4710.5352 269.6025)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G41</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4696.3647 822.71)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G42</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4696.3647 1972.8682)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G43</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4696.3652 2316.4307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G44</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4711.2524 2836.8535)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G45</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3915.3364 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B38</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3990.363 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B39</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3705.0579 2608.4053)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B34</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3780.8135 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B35</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3814.7383 2608.4053)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B36</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3889.7649 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B37</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3494.7822 2608.4053)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B30</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3570.8994 2608.4053)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B31</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3604.823 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B32</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3679.4893 2608.4063)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B33</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2517.3457 787.2222)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2440.5032 787.2192)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2311.4312 787.2227)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2234.9458 787.2222)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2414.9319 787.2192)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2337.3591 787.2222)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2089.8948 787.2227)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2201.0247 787.2227)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2123.8159 787.2222)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E2</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3592.0869 3178.8325)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A46</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2946.7368 3192.6333)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A47</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4660.5322 3178.8325)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A44</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4076.1953 3178.8325)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A45</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4043.0198 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A42</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4072.5889 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A43</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3922.4473 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A40</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3966.1741 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A41</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2100.1597 478.9546)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2134.0811 478.9541)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1989.6595 478.7744)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2023.5811 478.7739)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2314.3313 646.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F16</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2315.239 533.2466)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F17</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2066.0496 3188.2781)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A48</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2239.6641 646.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1279.8118 805.9932)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1233.9028 805.9937)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1380.4071 805.9932)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1354.8387 805.9937)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N11</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1302.6591 1307.1947)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N16</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1431.9446 1281.2671)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N17</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1150.157 1306.438)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N14</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1302.6591 1281.2671)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N15</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1431.9446 1307.1947)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N18</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1560.5067 1281.2671)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N19</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 909.0125 2408.6665)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I16</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 851.6015 1350.7753)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3531.8259 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A33</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3497.9043 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A32</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3419.9697 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A31</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3386.0483 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A30</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3737.7432 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A37</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3711.8115 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A36</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3634.606 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A35</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3609.0381 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A34</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3844.5151 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A39</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3814.9517 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A38</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 955.3575 2924.2473)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">X3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 994.5771 2810.8032)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">X4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 919.1592 2786.834)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">X2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 892.7861 2786.8335)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">X1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3039.9478 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E19</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2963.1018 798.3423)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2620.1199 798.3423)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2543.2737 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2723.2632 798.3423)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2646.0542 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2826.4001 798.3398)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2749.1975 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2929.1775 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E17</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2851.9746 798.3398)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E16</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 980.46 2408.665)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3080.7686 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D20</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 889.2549 2408.6655)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I17</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3824.0315 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F54</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3857.9531 646.1963)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F55</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3700.1873 549.5918)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F52</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3734.1169 549.5918)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F53</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3623.3445 549.5928)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F50</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 684.5222 962.7667)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K22</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1104.978 803.7979)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K23</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 684.5222 1055.0143)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K20</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 684.5221 982.5207)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K21</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1104.9777 975.2168)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K24</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1063.5991 2408.6646)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1079.623 2408.6655)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I12</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2739.7192 2204.2305)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B41</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4024.2839 2608.4053)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B40</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2074.7551 2201.3223)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B42</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2437.2344 1628.9292)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2512.6245 1628.9292)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2327.9141 1628.9302)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2403.3071 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2226.5933 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2301.9858 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2123.8159 1627.6611)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2201.0247 1628.9302)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2089.8945 1627.6611)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2541.4646 646.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F23</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2515.5298 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F22</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2440.8633 533.2466)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F21</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2414.9316 533.2471)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F20</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2733.4639 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F27</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2717.4395 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F26</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2642.4258 646.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F25</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2616.8513 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F24</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2810.0969 535.792)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F29</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2810.0652 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F28</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1747.2087 794.8735)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1154.3689 2219.2876)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I28</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1693.3137 794.8735)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1424.3502 1589.7109)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N29</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1618.6461 794.8706)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1560.3927 794.8706)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3189.7222 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C22</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3264.7471 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C23</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3086.4971 1782.373)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C20</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3163.7847 1782.5547)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C21</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3391.2793 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C26</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3466.6724 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C27</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3290.6838 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C24</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3365.3479 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C25</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3492.6067 1782.5547)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C28</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3567.9971 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C29</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 986.9705 1763.7461)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1061.5876 1765.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 806.4246 1763.7461)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 879.9792 1765.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 896.0032 1765.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 970.947 1763.7461)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 698.3943 1765.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 714.4187 1765.1958)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 790.4006 1763.7461)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1252.791 2141.3662)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1272.5483 1961.3662)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1252.791 1961.3662)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1186.1108 2509.9873)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">L13</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1560.5067 1307.1947)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N20</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3281.9536 1182.8534)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E40</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1968.3792 794.8726)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2749.9238 1628.9302)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2827.1326 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2861.0537 1628.9302)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D16</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2936.8071 1628.9302)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D17</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2538.5557 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2613.5825 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2639.5171 1628.9302)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2716.0027 1628.9292)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 814.21 2408.6665)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I20</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 794.4521 2408.6655)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I21</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 851.6014 1147.2565)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2970.728 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3046.8508 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D19</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4635.1392 646.1963)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F69</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4601.2148 646.1963)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F68</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4524.7334 646.1963)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F67</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4491.1748 646.1963)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F66</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2524.9753 1771.4346)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2448.1321 1771.4346)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2201.0247 1771.4336)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2123.8162 1771.437)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2089.8948 1771.436)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2422.1951 1771.4336)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2345.3525 1771.4341)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2311.4282 1771.4346)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2234.9463 1771.4336)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 719.4434 2612.3989)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I22</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2865.2593 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A20</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2890.8311 2797.2437)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A21</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2968.4028 2797.2427)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A22</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2994.3345 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A23</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3071.9033 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A24</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3097.4775 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A25</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3175.0469 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A26</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3200.978 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A27</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3278.187 2797.2441)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A28</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3307.7559 2797.2432)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A29</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3060.5596 1782.373)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C19</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2980.8965 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 719.4431 2408.666)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I24</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2739.6055 1782.5547)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2661.6733 1782.5552)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2635.7363 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2558.8931 1782.5552)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2946.9756 1782.5537)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C17</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2871.2261 1782.5542)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C16</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2841.2935 1782.5547)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2765.5371 1782.5542)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">C14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 699.6558 2408.666)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I25</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1298.1183)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G31</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1383.6804)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G30</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1164.1119)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G33</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1250.0341)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G32</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1043.8965)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G35</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1130.1875)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G34</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 932.4064)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G37</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 1017.9684)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G36</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 812.5634)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G39</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 4166.9741 898.4854)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">G38</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 851.6015 1258.8992)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K13</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 851.6014 1331.0206)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1279.6595 643.6533)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">O9</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 851.6015 1167.0143)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K17</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 851.6014 1239.1415)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K14</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 684.5222 1074.7692)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">K19</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 699.6558 2612.3979)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I23</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2826.1211 535.792)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F30</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2903.0354 644.4204)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F31</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2902.8755 535.4321)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F32</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2918.8984 535.4321)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F33</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2997.6543 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F34</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3013.6782 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F35</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3090.9172 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F36</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3091.2036 535.4316)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F37</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3107.2278 535.4316)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F38</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3182.3142 646.1953)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F39</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 769.861 2192.9695)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I27</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 479.6646 1880.5897)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">H14</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 529.8845 1880.5898)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">H13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2182.3083 2606.5879)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2246.6223 2606.5874)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2262.6453 2606.5869)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2331.0935 2608.5894)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2083.1814 2606.5879)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2099.2053 2606.5869)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2166.2844 2606.5869)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1398.4159 1589.7109)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N30</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2357.0217 2608.5889)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2434.5403 2608.0474)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B9</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 240.7467 553.7469)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">H9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1235.4236 1582.4512)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N34</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1215.6663 1582.4512)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N35</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3990.3628 797.9766)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E37</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3915.7021 797.9766)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E36</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3881.7759 797.9756)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E35</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3805.6536 797.9766)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E34</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3780.0842 797.9766)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E33</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3703.6086 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E32</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3669.6846 798.3428)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E31</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3594.4751 798.3418)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E30</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3990.8643 1182.1212)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E39</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 4024.2842 797.9756)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">E38</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2770.7275 2608.0474)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B16</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2846.7407 2608.4053)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B17</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2666.3916 2608.0469)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2744.7935 2608.0459)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2563.2544 2608.0464)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2640.4634 2608.0479)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2460.4746 2608.0469)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2537.3203 2608.0469)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2872.675 2608.4067)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2948.4316 2608.4067)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">B19</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1106.2493 2161.2271)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1077.6113 1776.3154)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1154.3687 1859.1143)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">J11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3582.8862 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D29</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3507.853 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D28</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 795.1694 2612.3984)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I19</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 814.9268 2612.3984)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3157.2515 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D21</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 996.4836 2408.665)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">I14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3267.291 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D23</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3191.1719 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D22</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3377.3286 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D25</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3301.2129 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D24</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3482.2888 1628.9307)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D27</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3407.2585 1628.9297)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">D26</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1485.3629 794.873)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N8</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1455.4375 794.8735)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N9</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1492.2306 228.2259)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F74</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1942.811 794.8735)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1866.9783 794.873)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">N3</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3919.2922 227.4904)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F70</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3506.3745 228.2261)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F71</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 3312.4412 228.2258)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F72</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2586.0984 228.226)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">F73</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2582.1335 2798.6968)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A15</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2556.5649 2798.6973)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A14</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2685.2798 2796.1514)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A17</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2659.3452 2796.1504)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A16</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2378.4011 2845.543)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A11</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2356.4585 2845.5425)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A10</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2479.3562 2796.1509)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A13</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2455.6035 2796.1509)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A12</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2788.0566 2845.542)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A19</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2762.4824 2845.5425)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A18</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1869.2334 2786.124)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A1</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1972.0137 2786.1235)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A3</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 1946.4426 2786.124)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A2</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2075.1509 2786.1235)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A5</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2049.2166 2786.124)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A4</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2177.928 2786.1235)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A7</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2151.9939 2786.124)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A6</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2278.8923 2786.124)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A9</text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 2255.1367 2786.1235)" fill="#404040" font-family="'HelveticaNeueLT-Medium'" font-size="20">A8</text>
+	</g>
+</g>
+<g id="Icons" pi_zoffset="45" class="billboardMapAlwaysUp">
+	<g id="Restroom_2_">
+		<circle fill="#B7B7B7" cx="419.3" cy="3375.3" r="40" />
+		<path fill="#FFFFFF" d="M419.4,3356.1c-0.8,0-1.5,0.7-1.5,1.5v37.1c0,0.8,0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5v-37.1    C420.8,3356.7,420.2,3356.1,419.4,3356.1z" />
+		<circle fill="#FFFFFF" cx="403.3" cy="3356.5" r="3.9" />
+		<path fill="#FFFFFF" d="M407.2,3362.1h-7.7c-1.7,0-3.1,1.4-3.1,3.1v12.1c0,1.1,0.9,2,2,2l0.3,0v17.1c0,1,0.8,1.9,1.9,1.9    c1,0,1.9-0.8,1.9-1.9v-13.8h0v-2.2c0-0.5,0.4-1,1-1s1,0.4,1,1v2.2h0v13.8c0,1,0.8,1.9,1.9,1.9c1,0,1.9-0.8,1.9-1.9v-17.1h0.2    c1.1,0,2-0.9,2-2l0-12.5C410.3,3363.1,409,3362.1,407.2,3362.1z" />
+		<path fill="#FFFFFF" d="M444.5,3379.3c0.1,0,0.1,0,0.2,0c0.8-0.2,1.2-1.1,1-1.8l-4.4-14.4c-0.2-0.6-0.7-1-1.3-1l-6.8,0    c-0.6,0-1.2,0.4-1.4,1l-4.4,14.4c-0.2,0.8,0.2,1.6,1,1.8c0.1,0,0.2,0,0.3,0.1l-1.3,4.2h5.2v13.3c0,0.8,0.7,1.5,1.5,1.5    s1.5-0.7,1.5-1.5v-13.3h2.3v13.3c0,0.8,0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5v-13.3h5.2L444.5,3379.3z" />
+		<circle fill="#FFFFFF" cx="436.5" cy="3356.5" r="3.9" />
+	</g>
+	<g id="Recycling_2_">
+		<circle fill="#B7B7B7" cx="1598.6" cy="3151.1" r="40" />
+		<path fill="#FFFFFF" d="M1580.1,3148.7l3.8,0.5l-6.4-10.4l-9.1,8.2l3.6,0.5c-1.8,13.2,6.3,25.5,18.7,29.2l2.4-7.8    C1584.5,3166.3,1578.9,3157.8,1580.1,3148.7z" />
+		<path fill="#FFFFFF" d="M1607.3,3139.1l12.2-0.5l-2.7-11.9l-2.2,2.9c-10.6-8-25.3-7-34.6,2l5.7,5.9c6.5-6.2,16.6-6.9,24-1.4    L1607.3,3139.1z" />
+		<path fill="#FFFFFF" d="M1624.7,3144.4l-7.9,2c2.2,8.7-2.1,17.9-10.5,21.6l-1.5-3.5l-5.6,10.9l11.8,3.4l-1.4-3.3    C1621.7,3170.2,1627.9,3156.9,1624.7,3144.4z" />
+	</g>
+	<g id="Starbucks_2_">
+		<path fill="#FFFFFF" d="M1359.4,3396.1c0,22.1-17.9,40-40,40c-22.1,0-40-17.9-40-40c0-22.1,17.9-40,40-40    C1341.4,3356.1,1359.4,3374,1359.4,3396.1" />
+		<path fill="#007047" d="M1317.7,3391c0.1,0.2-0.1,0.6,0.2,0.7c1-0.2,2.7,0.5,3.2-0.6c-0.4-0.4-1-0.6-1.6-0.6    C1318.8,3390.5,1318.2,3390.6,1317.7,3391 M1316.1,3393.4l0.1,0.5c1.2,0.8,1.5,2.1,3.1,2c1.4,0.1,2.5-1.3,3.2-2.3    C1320.6,3393.3,1318.2,3393.7,1316.1,3393.4 M1347.9,3389.2c3,0.8,6.1,4.1,9.3,2c-2.8-4.6-7-8.9-5.8-15c0.1-0.4-0.1-0.8-0.5-0.9    c-1.8,0.7-3.2,2.5-3.9,4.3c-0.3,1-0.5,2.1-0.9,3.1c-2.2-1.1-4.5-2.2-7.1-2c-1,0.1-2.3,0.2-2.5,1.2c3,1.6,5.5,4.3,7.3,7.1    C1345,3388.8,1346.5,3389,1347.9,3389.2 M1337.7,3372c-2.2-0.1-4,1.1-6.1,1.7c-0.2-1.7,1.1-3.5,1.4-5.3c-3.3,0.2-5.9,2.2-8.6,3.8    c-0.6-1.5-1.3-3-1.9-4.6l3.6-3.4l0.1-0.4l-4.8-0.3c-0.8-1.5-1.2-3.2-2.1-4.5c-0.8,1.5-1.3,3.1-2.1,4.6l-4.8,0.3v0.4l3.7,3.3    c-0.4,1.7-0.9,3.5-2,4.8c-2.1-1.3-4.3-2.7-6.6-3.6c-0.6-0.2-1.4-0.5-1.9-0.1c0.7,1.6,1.8,3.4,1.6,5.2c-1-0.2-1.8-0.8-2.7-1.1    c-1.1-0.3-2.4-0.9-3.5-0.5c1.8,2.5,3.2,5.1,3.7,8.1c5.9-2.9,12.8-4.4,20-3.2c3.4,0.5,6.5,1.9,9.5,3    C1334.3,3377.1,1336.3,3374.6,1337.7,3372 M1324.7,3384.6c-0.1,0-0.2,0-0.3,0c-0.6,0.4-2.4,0.1-1.8,1.5c1.1-0.9,2.7-0.3,3.8,0.2    c0.4-0.2,0.3-0.6,0.4-1C1326.4,3384.7,1325.6,3384.6,1324.7,3384.6 M1326.5,3381.7c-0.8-1.8-2.7-2.6-4.5-3    c-0.8-0.1-1.7-0.2-2.6-0.2c-0.2,0-0.3,0-0.5,0c-2.4,0-4.8,0.7-6.2,2.7c-0.2,0.6-1.1,1.4-0.3,1.9c1.9-0.1,4-0.4,5.3,1.3    c0,1.4,0.9,3.3-0.6,4c-1.3-1.2-2.8,0.5-4.2-0.4c-0.7-0.4-1.1,0.1-1.3,0.6c-0.4,3.7,1.5,7.8,5,9.8c1.4,0.5,3.3,1,4.7,0.3    c3.5-1.6,5-5.4,5.6-8.8c-0.1-0.7-0.1-1.9-1-2c-1,0.7-2.6,0.3-3.7,0c-0.7,0.2-0.7,1.2-1.4,1.3l-0.5-0.4c-0.4-1.6-0.6-4,0.9-5.1    c1.7-0.7,3.7-1,5.4-0.4C1327.1,3382.6,1326.6,3382.2,1326.5,3381.7 M1312,3385.5c-0.1,0.4,0,1.1,0.6,0.8c0.9-1.3,2.6-0.3,3.6-0.2    v-0.4c-0.6-0.9-1.7-1.3-2.9-1.3c-0.3,0-0.5,0-0.8,0.1C1312.1,3384.7,1311.9,3385.1,1312,3385.5 M1302.5,3381.5c-3.1-2-7-0.1-9.9,1    c-0.3-2.7-1.4-5.2-3.7-7c-0.2-0.1-0.5-0.3-0.8-0.4c-0.2,0-0.3,0.1-0.4,0.3c1,6.4-3.1,10.9-6.1,15.7c1,0.8,2.6,0.7,3.7,0.4    c3.1-1.3,6.1-3.4,9.8-2.7c1.1-1.9,2.9-3.7,4.5-5.2C1300.6,3382.9,1301.9,3382.4,1302.5,3381.5z M1358.6,3398.1    c0,1,0.1,1.9-0.3,2.9c-4.1,1.2-6.8-3.2-10.7-2.5l0.4,2.2c3.7,0.1,5.9,3.6,9.7,3.5c-0.5,1.1,0.2,3.9-2.1,2.8    c-2.5-0.6-4.3-2.8-7-2.8c-0.3,0.6-0.1,1.4-0.2,2.1c2.9,0.4,4.9,2.9,7.8,3.3c-0.3,1-0.5,2.1-1.3,2.7c-2.3-0.6-4.1-2.7-6.6-2.6    l-0.4,2.1c2.4,0.1,3.9,2.1,6,2.8c0.1,0.9-0.7,1.6-1.2,2.4c-1.9-0.6-3.3-2.2-5.4-2.1c0-0.8,0.4-1.7,0.3-2.6c-2.4,0.7-4-1.5-5.8-2.9    c-0.1-4.4-4.7-7.3-4.9-11.4c0-0.8,0.1-1.7,0.5-2.6c1.5-3.5,1-8.1-0.6-11.3c-0.5-0.9-1.4-1.5-2.2-2c1.2,2.6,2.7,5.7,2,8.8    c-0.1,2.5-1.5,4.8-1.6,7.2c0,0.8,0.2,1.7,0.7,2.5c1.9,3.5,5.4,6.8,4.1,11.2c-0.4,1.3-1.4,2.4-1.7,3.7c2.3,1.9,4.4,4,7.4,4.1    c1.1-0.7,0.5-3.7,2.7-2.3l3.2,1.6c-0.2,0.9-1,1.6-1.6,2.2c-1.2-0.6-2.4-1.3-3.9-1.2c-0.4,0.5-0.8,1-0.8,1.7    c1.1,0.2,2.1,0.6,2.9,1.3c-0.4,0.9-1.2,1.5-2,2.1l-2.5-0.9c-0.4,0.6-1.3,1.2-1,1.9c0.6,0.2,1.2,0.6,1.6,1c-1.1,1.2-2.5,2-3.8,2.8    c-1.2-3.8-5-6.4-4.6-10.8l-0.2-0.2c-0.9,1-0.6,2.6-0.5,3.9c1.1,2.7,3.6,4.9,4,7.9c-0.4,0.8-1.5,0.9-2.2,1.3    c0.1-5.4-8.1-9.5-2.9-15c1.8-2.7,4.7-5.2,3.7-8.9c-1.1-3.6-4.9-5.8-4.8-9.8l0-0.3c0.9-4.2,3.5-8.6,1.3-13    c-0.6-1.8-1.9-3.8-3.7-4.6c2.7,3.1,3.8,8.2,2.2,12.3c-0.8,1.7-1.9,3.6-2,5.6h0c-0.1,1,0.2,2,0.8,3c2.1,3.3,5.6,7,3.6,11.3    c-2.3,3.5-6.4,7-4.1,11.6c1.6,2.7,4.2,5.5,3.5,8.8l-2.7,0.9c1.8-6.3-7-10-3.3-16.2c2.3-3.4,6.3-6.5,4-11c-1.4-2.8-4.2-4.4-4.1-7.9    l0.1-0.6c0.9-4.9,4.6-9.5,2-14.8c-0.7-1.5-2-3.1-3.6-4l-0.1,0.1c3,2.9,4,7.8,2.3,11.7c-0.8,2.3-2.4,4.6-2.8,7    c-0.2,1.2,0,2.4,0.6,3.6c1.9,3.1,5.3,6.3,3.2,10.3c-2.2,3.3-6,6.5-4.5,10.7c1.6,3.7,5.1,7.3,3.2,11.9l-2.8,0.6    c2.2-4.5-1.1-9-3-12.9c-2.4-5.6,5.1-8.3,5.2-13.4c0-3.3-3.5-5.2-4.3-8.2c-1.5-1.3-3.1,0.5-4.9,0.2c-1.3,0.3-3.4-1.8-4.2,0.4    c-1,3.4-5.3,5.8-3.4,9.8c1.8,3.5,6.2,6.1,4.7,10.7c-1.3,4.3-5.6,8.4-2.9,13.3c-0.8-0.3-1.7-0.3-2.9-0.6l-0.3-0.9    c-1.7-6,5.5-9.5,3.3-15.4c-1-3.7-5.8-5.7-4.7-10.1c0.8-3.6,4.8-6.2,4.3-10.1c0-0.3-0.1-0.7-0.2-1c-1.5-4.3-4.6-8.6-2.8-13.6    c0.5-1.4,1.5-2.6,2.4-3.9c-2.9,1.6-4.4,4.9-4.4,8.3c-0.1,3.7,2.6,6.9,3,10.2c0.2,1.4-0.1,2.8-1,4.2c-1.9,2.6-4.5,5.4-3.3,8.8    c1.1,3.5,5.4,5.6,5.2,9.6c0,4.8-5.6,7.8-4,13.1l-2.8-0.9c-1.1-4.8,4-7.2,4-11.6c0.7-5.1-5.7-6.9-5.4-11.9c0-3.8,3.3-6.1,4.7-9.3    c0.3-0.8,0.3-1.5,0.3-2.2c-0.2-3.5-3.3-6.2-2.8-10.1c0.2-2.9,1.2-5.4,3-7.6c-2.6,1-3.7,4-4.4,6.5c-1.2,4,1.7,7.6,2,11.2    c0.1,1.6-0.3,3.2-1.7,4.8c-2.1,2.5-4.3,5.7-2.8,9.1c1.6,3.7,6.8,6.7,4.6,11.3c-1.2,2.9-4.1,5.2-4,8.7c-0.8-0.3-1.6-0.7-2.2-1.2    c0-4.4,6.3-7.2,3.3-11.9c-0.3,0.9-0.3,2.2-0.5,3.2c-1,2.7-3.3,4.9-4.1,7.7c-1.4-0.5-2.9-1.7-4-2.9l1.6-1c-0.2-0.6-0.7-1.1-1.1-1.6    c-1-0.1-1.7,0.5-2.6,0.8c-0.7-0.7-1.5-1.3-2.1-2.1c0.5-1.5,4.7-0.3,2.6-2.8c-1.4-0.9-2.9,0.4-4.1,1l-1.7-2.1    c1.5-0.9,2.9-2.1,4.7-1.8c0.4,0.8,0.5,2,1.3,2.4c3.1-0.1,5.2-2.4,7.6-4.2c-1.6-2.4-3-5.8-1.5-8.8c1.2-3,4.2-5.4,4.3-8.7    c0-0.7-0.1-1.5-0.4-2.4c-1.6-4.1-2.2-9.7,0.9-13.4c-1.7,0.4-2.7,2.5-3.2,4.1c-1.8,4,0.5,7.8,0.6,11.7c0,0.7,0,1.4-0.2,2.1    c-1.6,3.2-4.1,6-4.6,9.6c-1.8,1.2-3.3,3.2-5.9,2.5c-0.1,0.7,0.1,1.7,0.4,2.5c-2.1-0.1-3.5,1.4-5.2,2.1c-0.9-0.3-1.2-1.5-1.5-2.3    c2-0.7,3.5-2.7,5.8-2.7c0.3-0.7-0.2-1.4-0.3-2.1c-2.9-1.3-7.5,6.3-7.9-0.3c2.9-0.2,4.7-2.9,7.6-3.1l0.1-2.1    c-3.2-0.3-5.3,3-8.6,2.7l-0.7-2.9c3.8,0.2,6-3.1,9.6-3.3c0.5-0.6,0.5-1.5,0.6-2.4c-3.9-0.5-6.6,3.8-10.7,2.5c0,0-0.1-1.8-0.2-2.8    h0c0-0.4-0.1-0.7-0.1-0.7c3.7,1.4,6.9-1.2,10.1-2.6c0.8-0.2,2.1,0.2,2.4-0.7c0-0.7,1.2-1.5,0.2-2c-4.6-0.6-7.7,4.9-12.4,2.4    l-0.4-0.7c1-13.5,8.6-26.5,21.2-32.9c5.1-2.9,11.4-4.4,17.8-4.5c7.7-0.1,15.5,2,21.3,6.1c5.6,3.5,11,9.1,13.9,14.9    c2.8,5.1,4.1,10.7,4.5,16.8c-4.9,3.7-8.2-3.5-13.1-1.9c0.3,0.8,0.4,1.6,1,2.2c4.4,0,7.4,4.6,12.1,2.8L1358.6,3398.1z     M1319.1,3370.3c1.4,0.8,2.9,1.8,4,2.9l-0.4,0.4c-2.2-0.2-4.6,0.1-6.7,0.1c-0.2-0.2-0.7-0.6-0.3-0.9L1319.1,3370.3z" />
+		<polygon fill="#007047" points="1346.6,3434.6 1346,3434.6 1346,3430.9 1344.6,3430.9 1344.6,3430.4 1348,3430.4 1348,3430.9     1346.6,3430.9   " />
+		<polygon fill="#007047" points="1352.8,3434.6 1352.8,3430.9 1351.4,3434.6 1351,3434.6 1349.6,3430.9 1349.6,3434.6 1349,3434.6     1349,3430.4 1350,3430.4 1351.2,3433.8 1352.4,3430.4 1353.3,3430.4 1353.3,3434.6   " />
+	</g>
+	<g id="Photo_2_">
+		<circle fill="#B7B7B7" cx="1501.1" cy="3260" r="40" />
+		<path fill="#FFFFFF" d="M1501.4,3255.9c-4,0-7.2,3.2-7.2,7.2s3.2,7.2,7.2,7.2c4,0,7.2-3.2,7.2-7.2S1505.3,3255.9,1501.4,3255.9z" />
+		<path fill="#FFFFFF" d="M1477.6,3249.4v27.4h47.6v-27.4H1477.6z M1501.4,3273.3c-5.6,0-10.2-4.6-10.2-10.2    c0-5.6,4.6-10.2,10.2-10.2c5.6,0,10.2,4.6,10.2,10.2C1511.5,3268.7,1507,3273.3,1501.4,3273.3z" />
+		<path fill="#FFFFFF" d="M1487,3245c0-0.4-0.4-0.8-0.8-0.8h-4.9c-0.4,0-0.8,0.4-0.8,0.8v1.4h6.5V3245z" />
+		<polygon fill="#FFFFFF" points="1508.3,3240.9 1494.4,3240.9 1492.6,3246.5 1510.1,3246.5   " />
+	</g>
+	<g id="Guest_Services_2_">
+		<circle fill="#B7B7B7" cx="1075.6" cy="2935.7" r="40" />
+		<path fill="#FFFFFF" d="M1088.7,2915.1c-3.1-3.1-7.9-4.8-13.8-4.8c-10.1,0-17,7-17.2,17.5l0,0.4h10.9l0-0.4c0-2.6,0.8-8.6,6.8-8.6    c3.6,0,5.5,2,5.5,5.9c0,3.3-1.9,4.8-4.4,6.8c-0.2,0.1-0.3,0.3-0.5,0.4c-2.8,2.1-5.7,4.9-6.2,11.1l0,3.5h10.1v-3    c0.5-3.4,3-5.2,5.6-7c0.4-0.3,0.7-0.5,1.1-0.8c3-2.3,6-5.2,6-12C1092.5,2922.5,1092.1,2918.6,1088.7,2915.1z" />
+		<rect x="1069.9" y="2952" fill="#FFFFFF" width="10.1" height="9.9" />
+	</g>
+	<g id="Gift_Registry_2_">
+		<circle fill="#B7B7B7" cx="1690.2" cy="3151.1" r="40" />
+		<path fill="#FFFFFF" d="M1688.8,3139.1v2.1c0.5-0.1,1-0.1,1.5-0.1h0c0.5,0,1,0,1.5,0.1v-2.1c0-2.5-2-4.5-4.5-4.5h-8.3    c-0.8,0-1.5-0.7-1.5-1.5v-5.6c0-0.8-0.7-1.5-1.5-1.5s-1.5,0.7-1.5,1.5v5.6c0,2.5,2,4.5,4.5,4.5h8.3    C1688.1,3137.6,1688.8,3138.2,1688.8,3139.1z" />
+		<path fill="#FFFFFF" d="M1690.3,3144.1c-6.1,0-11.1,5-11.1,11.1v14.5c0,6.1,5,11.1,11.1,11.1c6.1,0,11.1-5,11.1-11.1l0-14.5    C1701.4,3149.1,1696.4,3144.1,1690.3,3144.1z M1690.3,3154c-1.2,0-2.3-1-2.3-2.3c0-1.2,1-2.3,2.3-2.3c1.2,0,2.3,1,2.3,2.3    C1692.5,3153,1691.5,3154,1690.3,3154z" />
+	</g>
+	<g id="Fitting_Rooms_2_">
+		<circle fill="#B7B7B7" cx="359.3" cy="371.6" r="40" />
+		<path fill="#FFFFFF" d="M388.3,374.7c0,0-0.1,0-0.1-0.1l-22.7-10v-7.7c0-3.4-2.8-6.1-6.1-6.1c-3.4,0-6.1,2.8-6.1,6.1    c0,0.8,0.7,1.5,1.5,1.5c0.8,0,1.5-0.7,1.5-1.5c0-1.8,1.4-3.2,3.2-3.2c1.8,0,3.2,1.4,3.2,3.2v8.7c0,0.6,0.3,1.1,0.9,1.4l23.5,10.3    c0.1,0,0.1,0.1,0.2,0.1c0.5,0.2,0.8,0.7,0.8,1.3c0,0.8-0.6,1.4-1.4,1.4h0c0,0,0,0,0,0c-0.8,0-53.8,0-54.3,0h0    c-0.8,0-1.4-0.6-1.4-1.4c0-0.6,0.3-1,0.8-1.3c0,0,0.1,0,0.1-0.1l25-10c0.8-0.3,1.1-1.2,0.8-1.9c-0.3-0.8-1.2-1.1-1.9-0.8    l-25.1,10.1c-0.1,0-0.1,0.1-0.2,0.1c-1.5,0.7-2.5,2.2-2.5,3.9c0,2.4,1.9,4.3,4.3,4.3l45.9,0l8.3,0c0.1,0,0.1,0,0.2,0l0,0    c2.4,0,4.3-1.9,4.3-4.3C390.8,376.9,389.8,375.4,388.3,374.7z" />
+	</g>
+	<g id="Employment_Kiosk_2_">
+		<circle fill="#B7B7B7" cx="1788.2" cy="3151.1" r="40" />
+		<path fill="#FFFFFF" d="M1795.6,3148h-15.2c-0.8,0-1.4-0.2-1.4-1s0.6-1,1.4-1h15.2c0.8,0,1.4,0.2,1.4,1S1796.3,3148,1795.6,3148z" />
+		<path fill="#FFFFFF" d="M1795.6,3155h-15.2c-0.8,0-1.4-0.7-1.4-1.5s0.6-1.5,1.4-1.5h15.2c0.8,0,1.4,0.7,1.4,1.5    S1796.3,3155,1795.6,3155z" />
+		<path fill="#FFFFFF" d="M1784.5,3162h-4.1c-0.8,0-1.4-1.2-1.4-2s0.6-2,1.4-2h4.1c0.8,0,1.4,1.2,1.4,2S1785.3,3162,1784.5,3162z" />
+		<path fill="#FFFFFF" d="M1795.6,3162h-5.5c-0.8,0-1.4-1.2-1.4-2s0.6-2,1.4-2h5.5c0.8,0,1.4,1.2,1.4,2S1796.3,3162,1795.6,3162z" />
+		<path fill="#FFFFFF" d="M1778.1,3138.2c-0.8,0-1-0.6-1-1.4v-2.8c0-0.8,0.2-1.4,1-1.4s1,0.6,1,1.4v2.8    C1779.1,3137.6,1778.9,3138.2,1778.1,3138.2z" />
+		<path fill="#FFFFFF" d="M1785.6,3138.2c-0.8,0-1.5-0.6-1.5-1.4v-2.8c0-0.8,0.7-1.4,1.5-1.4s1.5,0.6,1.5,1.4v2.8    C1787.1,3137.6,1786.4,3138.2,1785.6,3138.2z" />
+		<path fill="#FFFFFF" d="M1791.6,3138.2c-0.8,0-1.5-0.6-1.5-1.4v-2.8c0-0.8,0.7-1.4,1.5-1.4s1.5,0.6,1.5,1.4v2.8    C1793.1,3137.6,1792.4,3138.2,1791.6,3138.2z" />
+		<path fill="#FFFFFF" d="M1799.1,3138.2c-0.8,0-1-0.6-1-1.4v-2.8c0-0.8,0.2-1.4,1-1.4s1,0.6,1,1.4v2.8    C1800.1,3137.6,1799.9,3138.2,1799.1,3138.2z" />
+		<path fill="#FFFFFF" d="M1804.5,3169.7h-32.7c-0.8,0-1.4-0.6-1.4-1.4v-34.5c0-0.8,0.6-1.4,1.4-1.4s1.4,0.6,1.4,1.4v33.1h29.9    v-33.1c0-0.8,0.6-1.4,1.4-1.4c0.8,0,1.4,0.6,1.4,1.4v34.5C1805.9,3169.1,1805.3,3169.7,1804.5,3169.7z" />
+	</g>
+	<g id="Checkout_2_">
+		<circle fill="#B7B7B7" cx="1501.1" cy="2935.7" r="40" />
+		<path fill="#FFFFFF" d="M1506.1,2931.2c-0.9-0.2-1.7-0.4-2.5-0.6c-0.2,0-0.4-0.1-0.6-0.1v-10.6c2.6,0.2,4.6,2.7,4.7,5.8l0,0.2h9.4    l0-0.3c-0.4-7.7-5.4-12.5-14.1-13.5v-4.8h-4.2v4.8c-3.9,0.3-7.4,1.6-10,3.7c-3,2.4-4.5,5.9-4.5,9.9c0,8.5,6.5,11,12.7,12.7    c0.8,0.2,1.4,0.3,1.8,0.5v12.6c-3.9-0.9-6.3-3.9-6.2-8l0-0.2h-9.4l0,0.3c0.9,9.7,6.2,15,15.6,15.8v4.9h4.2v-4.9    c6.7-0.5,10.5-3.3,12.4-5.6c2.4-2.7,3.2-5.9,3.2-7.7C1518.7,2942,1518.7,2934.7,1506.1,2931.2z M1498.9,2929.4    c-3.7-0.9-5.1-2.2-5.1-4.7c0-3.3,2.6-4.9,5.1-4.9V2929.4z M1503.1,2951.4V2940c4.9,1.4,6.3,2.6,6.3,5.6    C1509.3,2949.3,1506,2951.1,1503.1,2951.4z" />
+	</g>
+	<g id="Carts_2_">
+		<path fill="#B7B7B7" d="M922.6,3027.8c-22.1,0-40,17.9-40,40c0,22.1,17.9,40,40,40c22.1,0,40-17.9,40-40    C962.6,3045.7,944.7,3027.8,922.6,3027.8L922.6,3027.8z" />
+		<path fill="#FFFFFF" d="M939.1,3047.7h7.4l-1,3.6h-1.6l-6.8,19.4c0,0,2.1,2.1,2,6.3c-0.2,4.9-5.8,4.8-5.8,4.8l-31,0v-4.5h28.8    c0,0,3.2,0.3,3.2-1.6c0-2.4-1.6-2.4-1.6-2.4l-30.3-5.9l-1.4-14.6l36.1,0.8L939.1,3047.7z" />
+		<path fill="#FFFFFF" d="M934.4,3088.1c0-2.7-2.2-4.8-4.8-4.8c-2.7,0-4.8,2.2-4.8,4.8s2.2,4.8,4.8,4.8    C932.2,3093,934.4,3090.8,934.4,3088.1" />
+		<path fill="#FFFFFF" d="M914.9,3088c0-2.7-2.2-4.8-4.8-4.8c-2.7,0-4.8,2.2-4.8,4.8c0,2.7,2.2,4.8,4.8,4.8    C912.7,3092.8,914.9,3090.6,914.9,3088" />
+	</g>
+	<g id="Cafe_2_">
+		<circle fill="#B7B7B7" cx="419.3" cy="2997.5" r="40" />
+		<path fill="#FFFFFF" d="M424,2979.7l0.5-0.3l0.3,0.2c0,0,0.1,0,0.1,0c0,0,0,0.1,0,0.1l0.1,0l2.9,1.6l2.9-1.6l0.5-0.3l0.5,0.3    l3.1,1.6l3.1-1.6l0.5-0.3l0.5,0.3l2.7,1.6l0.8-0.5c0,0,0,0,0,0c0.1,0,0.1-0.1,0.2-0.1c0.4-0.4,0.5-1.1,0.1-1.6    c-0.4-0.5-1-0.6-1.5-0.3c-0.2,0.2-0.4,0.5-0.4,0.8c0,0,0,0,0,0c0,0,0-0.1,0-0.1c0.1-0.6-0.3-1.2-0.9-1.3c0,0,0,0,0,0    c0-0.1,0.1-0.2,0.1-0.2c0.1-0.6-0.3-1.2-0.9-1.3c-0.2,0-0.5,0-0.7,0.1c-0.1-0.3-0.2-0.5-0.5-0.7c-0.5-0.4-1.2-0.2-1.5,0.3    c0,0,0,0,0,0c0-0.1,0-0.1,0-0.2c-0.2-0.6-0.7-0.9-1.2-0.7c-0.1,0-0.2,0.1-0.3,0.2c-0.2-0.4-0.6-0.6-0.9-0.5    c-0.4,0.1-0.7,0.6-0.5,1.1c0,0.1,0.1,0.2,0.2,0.3c0,0-0.1,0.1-0.1,0.1c-0.3-0.4-0.7-0.5-1.1-0.4c0,0,0,0,0,0    c0.1,0,0.1-0.1,0.2-0.1c0.4-0.4,0.5-1.1,0.1-1.6c-0.4-0.5-1-0.6-1.5-0.3c-0.2,0.2-0.4,0.5-0.4,0.8c-0.3-0.2-0.6-0.2-0.9-0.1    c0.1-0.1,0.2-0.3,0.2-0.5c0.1-0.5-0.3-0.9-0.7-1c-0.1,0-0.2,0-0.3,0c-0.1-0.4-0.4-0.8-0.8-0.8c-0.6-0.1-1.1,0.4-1.1,1c0,0,0,0,0,0    c-0.1,0-0.1-0.1-0.2-0.1c-0.6-0.1-1.1,0.4-1.1,1.1c0,0.1,0,0.3,0,0.4c-0.1,0-0.2,0.1-0.3,0.2c-0.2,0.2-0.4,0.5-0.4,0.8    c-0.3-0.2-0.8-0.2-1.1,0.1c0,0-0.1,0.1-0.1,0.1c-0.2-0.2-0.5-0.3-0.8-0.3c-0.6,0-1.1,0.5-1.1,1.1c0,0.3,0.1,0.5,0.3,0.7    c-0.3-0.1-0.6,0-0.9,0.2c-0.1,0.1-0.2,0.2-0.2,0.3c-0.3-0.3-0.7-0.3-1-0.1c-0.3,0.3-0.4,0.8-0.1,1.2c0.1,0.1,0.2,0.2,0.3,0.2    c0,0.1-0.1,0.1-0.1,0.2c-0.3-0.3-0.7-0.3-1.1-0.2c-0.1,0-0.2,0.1-0.3,0.2l2.2,1.3L424,2979.7z" />
+		<rect x="396.1" y="2983.2" fill="#FFFFFF" width="19.6" height="1.6" />
+		<path fill="#FFFFFF" d="M403.1,2975.3l2,6.9c0,0,0,0,0,0c0.2,0,1.4,0,1.5,0l-2.2-7.7c0,0,0,0,0,0l0-0.1l0,0    c-0.1-0.4-0.5-0.7-0.9-0.7c-0.1,0-0.2,0-0.3,0l-9,2.7l0.4,1.4L403.1,2975.3C403,2975.3,403,2975.3,403.1,2975.3z" />
+		<path fill="#FFFFFF" d="M397.9,3002.3c2.7,0.2,3.4-0.6,7.1-3.7c3.3-2.8,6-6.2,9.6-3.8l0.6-9h-18.7L397.9,3002.3z" />
+		<path fill="#FFFFFF" d="M406.3,3007.3c-2.6,2.3-5.1,3.9-7.7,3.6l0.8,10.3h13.4l1.2-17.1C411.8,3001.8,409.7,3004.3,406.3,3007.3z" />
+		<path fill="#FFFFFF" d="M406.2,3000.1c-2.2,2.1-5.4,4.6-8.1,4.3l0.4,4.7c2.6,0.2,3.2-0.4,6.7-3.1c3.3-2.5,5.5-6,9-3.8l0.4-5.3    C411.9,2994.7,409.7,2996.7,406.2,3000.1z" />
+		<path fill="#FFFFFF" d="M443.2,2981.5l-1.5,1l-3.2-1.9l-3.6,1.9l-3.6-1.9l-3.4,1.9l-2.7-1.5l-0.6-0.3l0,0l-0.3,0.2l-0.3,0.1    l-1.4,0.8l-0.5,0.3l-0.9,0.5l-2.6-1.6l-0.5-0.3l4,40.8h18.6l4-40.8L443.2,2981.5z M425,3020.3l-3.8-36.3l0-0.3l0.8-0.5l2.5-1.4    l1.3,0.8l1.4,0.8l0.6,0.3l1,36.7H425z M437.7,3020.3h-3.9l1-36.7l0-0.1l0.5-0.2l0.4-0.2l0.8-0.4l0,0l1.8-0.9l1,0.6l0.1,0.1    l0.2,0.1l0,0l1.8,1l-0.2,1.5L437.7,3020.3z" />
+	</g>
+	<g id="Cash_Machine_2_">
+		<circle fill="#B7B7B7" cx="1501.1" cy="3151.1" r="40" />
+		<polygon fill="#FFFFFF" points="1524.9,3140.9 1520.4,3155 1520.3,3155 1515.5,3140.9 1509.1,3140.9 1509.1,3161.5 1513.3,3161.5     1513.3,3147 1513.4,3147 1518.5,3161.5 1522,3161.5 1527,3146.9 1527.1,3146.9 1527.1,3161.5 1531.3,3161.5 1531.3,3140.9   " />
+		<polygon fill="#FFFFFF" points="1489.1,3144.7 1495.3,3144.7 1495.3,3161.5 1499.8,3161.5 1499.8,3144.7 1506,3144.7 1506,3140.9     1489.1,3140.9   " />
+		<path fill="#FFFFFF" d="M1478,3140.9l-7.8,20.6h4.6l1.6-4.6h7.7l1.6,4.6h4.7l-7.7-20.6H1478z M1477.5,3153.5l2.7-7.6h0.1l2.6,7.6    H1477.5z" />
+	</g>
+</g>
+<g id="Department_Icons" pi_zoffset="69" class="billboardMap level2">
+	<g id="womenswear_2_">
+		<circle fill="#585858" cx="408.3" cy="2162.6" r="72.9" />
+		<path fill="#FFFFFF" d="M393,2160.2h30.7c12.6,19.8,11.3,53.8,11.3,53.8h-53.3C381.7,2214,380.4,2179.9,393,2160.2z M429.8,2131.2    l10.7-6.7c0,0-2.8-13.1-13.1-13.1h-8.6l-10.5,19.3l-10.5-19.3h-8.6c-10.4,0-13.1,13.1-13.1,13.1l10.7,6.7l5.8,24.9H424    L429.8,2131.2z" />
+	</g>
+	<g id="travel_2_">
+		<circle fill="#585858" cx="3396.4" cy="490.2" r="72.9" />
+		<path fill="#FFFFFF" d="M3382.4,451.4h28.1v10.5h5.7v-13.1c0-1.7-1.4-3.1-3.1-3.1h-33.2c-1.7,0-3.1,1.4-3.1,3.1v13.1h5.7V451.4z" />
+		<rect x="3428.3" y="465.9" fill="#FFFFFF" width="15.3" height="63.8" />
+		<rect x="3368.8" y="465.9" fill="#FFFFFF" width="55.2" height="63.8" />
+		<rect x="3349.3" y="465.9" fill="#FFFFFF" width="15.2" height="63.8" />
+		<path fill="#FFFFFF" d="M3369.5,459.3c0-1.6-1.3-2.8-2.8-2.8c-1.6,0-2.8,1.3-2.8,2.8v2.5h5.7V459.3z" />
+		<path fill="#FFFFFF" d="M3429,459.3c0-1.6-1.3-2.8-2.8-2.8c-1.6,0-2.8,1.3-2.8,2.8v2.5h5.7V459.3z" />
+	</g>
+	<g id="toys_games_2_">
+		<circle fill="#585858" cx="2422.8" cy="941.9" r="72.9" />
+		<path fill="#FFFFFF" d="M2380.1,899.2V985h85.8v-85.7H2380.1z M2423,907.4c2.6,0,4.7,2.1,4.7,4.7c0,2.6-2.1,4.7-4.7,4.7    s-4.7-2.1-4.7-4.7C2418.3,909.5,2420.4,907.4,2423,907.4z M2400.5,904.6h15v15h-15V904.6z M2400.5,964.6h-15v-15h15V964.6z     M2400.5,934.6h-15v-15h15V934.6z M2415.5,979.6h-15v-15h15V979.6z M2445.5,979.6h-15v-15h15V979.6z M2415.5,964.6v-15h15v15    H2415.5z M2433.3,957.1c0-2.6,2.1-4.7,4.7-4.7c2.6,0,4.7,2.1,4.7,4.7c0,2.6-2.1,4.7-4.7,4.7    C2435.4,961.8,2433.3,959.7,2433.3,957.1z M2445.5,949.6h-15v-15h-15v15h-15v-15h15v-15h15v15h15V949.6z M2445.5,919.6h-15v-15h15    V919.6z M2453,976.8c-2.6,0-4.7-2.1-4.7-4.7c0-2.6,2.1-4.7,4.7-4.7c2.6,0,4.7,2.1,4.7,4.7C2457.7,974.7,2455.6,976.8,2453,976.8z     M2460.5,964.6h-15v-15h15V964.6z M2460.5,934.6h-15v-15h15V934.6z" />
+		<path fill="#FFFFFF" d="M2393,931.8c2,0,3.6-1.2,4.3-2.9c0.2-0.6,0.4-1.2,0.4-1.8c0-1.2-0.5-2.3-1.2-3.2c-0.9-0.9-2.1-1.5-3.4-1.5    c-1.1,0-2.2,0.4-3,1.1c-1,0.9-1.7,2.2-1.7,3.6c0,0.7,0.1,1.3,0.4,1.9C2389.5,930.6,2391.1,931.8,2393,931.8z" />
+		<circle fill="#FFFFFF" cx="2408" cy="972.1" r="4.7" />
+		<circle fill="#FFFFFF" cx="2453" cy="927.1" r="4.7" />
+	</g>
+	<g id="storage_org_2_">
+		<circle fill="#585858" cx="3751.6" cy="1915.3" r="72.9" />
+		<path fill="#FFFFFF" d="M3782.3,1865.4h-61.5l3,23.7h55.5L3782.3,1865.4z M3759.8,1881.4h-17.1c-2.6,0-4.6-2.1-4.6-4.6    c0-2.6,2.1-4.6,4.6-4.6h17.1c2.6,0,4.6,2.1,4.6,4.6C3764.4,1879.3,3762.4,1881.4,3759.8,1881.4z" />
+		<path fill="#FFFFFF" d="M3718.5,1963.4h66l7.2-43.3h-80.5L3718.5,1963.4z M3742.7,1926.5h17.1c2.6,0,4.6,2.1,4.6,4.6    c0,2.6-2.1,4.6-4.6,4.6h-17.1c-2.6,0-4.6-2.1-4.6-4.6C3738.1,1928.6,3740.2,1926.5,3742.7,1926.5z" />
+		<path fill="#FFFFFF" d="M3716.3,1893.1l3.4,22.9h63.8l3.4-22.9H3716.3z M3759.8,1908.9h-17.1c-2.6,0-4.6-2.1-4.6-4.6    c0-2.6,2.1-4.6,4.6-4.6h17.1c2.6,0,4.6,2.1,4.6,4.6C3764.4,1906.8,3762.4,1908.9,3759.8,1908.9z" />
+	</g>
+	<g id="sporting_goods_2_">
+		<path fill="#585858" d="M3352.7,941.9c0,40.3-32.6,72.9-72.9,72.9c-40.3,0-72.9-32.6-72.9-72.9c0-40.3,32.6-72.9,72.9-72.9    C3320.1,869,3352.7,901.6,3352.7,941.9z" />
+		<path fill="#FFFFFF" d="M3306.4,971.2c-0.3,0.2-0.7,0.3-1,0.3c-0.7,0-1.4-0.4-1.8-1c-0.5-1-0.2-2.2,0.8-2.8l3.9-2.2    c-1.4-2.8-2.6-5.6-3.5-8.6l-4.3,1.1c-0.2,0-0.4,0.1-0.5,0.1c-0.9,0-1.7-0.6-2-1.5c-0.3-1.1,0.4-2.2,1.4-2.5l4.3-1.1    c-0.7-3-1.1-6-1.2-9.1h-4.5c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2h4.5c0.1-3.1,0.5-6.2,1.2-9.2l-4.3-1.1c-1.1-0.3-1.7-1.4-1.4-2.5    c0.3-1.1,1.4-1.7,2.5-1.5l4.3,1.1c0.9-3,2.1-5.8,3.5-8.6l-3.9-2.2c-1-0.6-1.3-1.8-0.8-2.8c0.6-1,1.8-1.3,2.8-0.8l3.9,2.2    c1.6-2.5,3.3-4.9,5.3-7.1c-9-9.4-21.8-15.3-35.9-15.3c-14.2,0-27.1,6-36.1,15.6c1.9,2.2,3.6,4.5,5.1,6.9l3.9-2.2    c1-0.5,2.2-0.2,2.8,0.8c0.6,1,0.2,2.2-0.8,2.8l-3.9,2.2c1.4,2.7,2.6,5.6,3.5,8.6l4.3-1.1c1.1-0.3,2.2,0.4,2.5,1.5    c0.3,1.1-0.4,2.2-1.4,2.5l-4.3,1.1c0.7,3,1.1,6.1,1.2,9.2h4.5c1.1,0,2,0.9,2,2c0,1.1-0.9,2-2,2h-4.5c-0.1,3.1-0.5,6.1-1.2,9.1    l4.3,1.1c1.1,0.3,1.7,1.4,1.4,2.5c-0.2,0.9-1.1,1.5-2,1.5c-0.2,0-0.3,0-0.5-0.1l-4.3-1.1c-0.9,3-2.1,5.8-3.5,8.6l3.8,2.2    c1,0.6,1.3,1.8,0.8,2.8c-0.4,0.7-1.1,1-1.8,1c-0.3,0-0.7-0.1-1-0.3l-3.9-2.2c-1.5,2.4-3.2,4.7-5.1,6.9c9,9.6,21.9,15.6,36.1,15.6    c14.1,0,26.8-5.9,35.9-15.3c-2-2.2-3.8-4.7-5.3-7.2L3306.4,971.2z" />
+		<path fill="#FFFFFF" d="M3318.3,910.6c-1.7,1.9-3.2,3.9-4.5,6.1l3.9,2.2c1,0.6,1.3,1.8,0.8,2.8c-0.4,0.7-1.1,1-1.8,1    c-0.3,0-0.7-0.1-1-0.3l-3.9-2.2c-1.3,2.4-2.3,5-3.1,7.6l4.3,1.1c1.1,0.3,1.7,1.4,1.4,2.5c-0.2,0.9-1.1,1.5-2,1.5    c-0.2,0-0.3,0-0.5-0.1l-4.3-1.1c-0.6,2.7-0.9,5.4-1,8.1h4.5c1.1,0,2,0.9,2,2c0,1.1-0.9,2-2,2h-4.5c0.1,2.7,0.5,5.5,1,8.1l4.3-1.1    c1.1-0.3,2.2,0.4,2.5,1.4c0.3,1.1-0.4,2.2-1.4,2.5l-4.3,1.1c0.8,2.6,1.8,5.2,3.1,7.6l3.9-2.2c1-0.5,2.2-0.2,2.8,0.8    c0.6,1,0.2,2.2-0.8,2.8l-3.9,2.2c1.3,2.1,2.8,4.2,4.5,6.1c6.9-8.5,11.1-19.4,11.1-31.3C3329.4,930,3325.2,919.1,3318.3,910.6z" />
+		<path fill="#FFFFFF" d="M3241.3,964.8c-1-0.6-1.3-1.8-0.8-2.8c0.6-1,1.8-1.3,2.8-0.8l3.9,2.2c1.2-2.4,2.3-5,3.1-7.6l-4.3-1.1    c-1.1-0.3-1.7-1.4-1.4-2.5c0.3-1.1,1.4-1.7,2.5-1.4l4.3,1.1c0.6-2.6,0.9-5.4,1-8.1h-4.5c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2h4.5    c-0.1-2.8-0.5-5.5-1-8.1l-4.3,1.1c-0.2,0-0.4,0.1-0.5,0.1c-0.9,0-1.7-0.6-2-1.5c-0.3-1.1,0.4-2.2,1.4-2.5l4.3-1.1    c-0.8-2.6-1.8-5.2-3.1-7.6l-3.9,2.2c-0.3,0.2-0.7,0.3-1,0.3c-0.7,0-1.4-0.4-1.8-1c-0.6-1-0.2-2.2,0.8-2.8l3.9-2.2    c-1.3-2-2.7-4-4.3-5.8c-6.8,8.5-10.9,19.3-10.9,31c0,11.7,4.1,22.5,10.9,31c1.6-1.8,3-3.8,4.3-5.8L3241.3,964.8z" />
+	</g>
+	<g id="shoes_2_">
+		<circle fill="#585858" cx="902.7" cy="1915.3" r="72.9" />
+		<path fill="#FFFFFF" d="M941.8,1889.4h-24.4v-4.4c0-1.5-1.2-2.7-2.7-2.7c-1.5,0-2.7,1.2-2.7,2.7c0,0,0,5.2,0,5.2    c0,3.6-0.7,6.9-2,10l7,0h0c1.5,0,2.7,1.2,2.7,2.7c0,1.5-1.2,2.7-2.7,2.7l-9.5,0c0,0-0.4,0-0.7-0.1c-0.4,0.5-0.8,1-1.2,1.5l6.1,5.6    c1.1,1,1.2,2.7,0.2,3.8c-0.5,0.6-1.3,0.9-2,0.9c-0.7,0-1.3-0.2-1.8-0.7l-6.4-5.9c-0.7,0.6-1.5,1.1-2.3,1.5l3.2,8    c0.6,1.4-0.1,3-1.5,3.5c-0.3,0.1-0.7,0.2-1,0.2c-1.1,0-2.1-0.6-2.5-1.7l-3.1-7.7c-1.1,0.4-2.3,0.7-3.4,0.9l0,8.6    c0,1.5-1.2,2.7-2.7,2.7h0c-1.5,0-2.7-1.2-2.7-2.7l0-8.2h-6.6v15.9h63.6v-41.5C942.6,1889.7,942.2,1889.4,941.8,1889.4z     M928.9,1922.9c-4.2,0-7.7-3.4-7.7-7.7c0-4.2,3.4-7.7,7.7-7.7c4.2,0,7.7,3.4,7.7,7.7C936.6,1919.5,933.2,1922.9,928.9,1922.9z" />
+		<path fill="#FFFFFF" d="M862.4,1931.7h0.8h10.4v-14.3v-0.8v-0.8h-1.1c-6,0-10.9,4.9-10.9,10.9v5c0,0,0,0,0,0H862.4z" />
+		<path fill="#FFFFFF" d="M861.6,1937.1C861.6,1937.1,861.6,1937.1,861.6,1937.1l0,5c0,0.4,0.4,0.8,0.8,0.8h79.4    c0.4,0,0.8-0.4,0.8-0.8v-5H861.6z" />
+	</g>
+	<g id="school_office_2_">
+		<circle fill="#585858" cx="3006" cy="2439.4" r="72.9" />
+		<path fill="#FFFFFF" d="M3005.9,2383.4c-12.3,0-22.3,10-22.3,22.3l0,58.4c0,1.5,1.2,2.7,2.7,2.7h0c1.5,0,2.7-1.2,2.7-2.7l0-58.4    c0-9.3,7.6-16.9,16.9-16.9c9.3,0,16.9,7.6,16.9,16.9v71.6c0,6.5-5.3,11.8-11.8,11.8c-6.5,0-11.8-5.3-11.8-11.8v-54.8    c0-3.7,3-6.7,6.7-6.7c3.7,0,6.7,3,6.7,6.7v41.5c0,1.5,1.2,2.7,2.7,2.7s2.7-1.2,2.7-2.7v-41.5c0-6.7-5.4-12.1-12.1-12.1    c-6.7,0-12.1,5.4-12.1,12.1v54.8c0,9.5,7.7,17.2,17.2,17.2c9.5,0,17.2-7.7,17.2-17.2v-71.6    C3028.2,2393.4,3018.2,2383.4,3005.9,2383.4z" />
+	</g>
+	<g id="pets_2_">
+		<circle fill="#585858" cx="3751.6" cy="2955.5" r="72.9" />
+		<path fill="#FFFFFF" d="M3791.5,2955.5c5.3-1.9,8.9-6.9,8.9-12.7c0-7.5-6.1-13.5-13.5-13.5c-6.6,0-12.2,4.8-13.3,11.2h-43.9    c-1.1-6.4-6.7-11.2-13.3-11.2c-7.5,0-13.5,6.1-13.5,13.5c0,5.8,3.7,10.8,8.9,12.7c-5.2,1.9-8.9,6.9-8.9,12.7    c0,7.4,6.1,13.5,13.5,13.5c6.7,0,12.3-4.9,13.3-11.4h43.8c1,6.6,6.6,11.4,13.3,11.4c7.5,0,13.5-6.1,13.5-13.5    C3800.3,2962.5,3796.7,2957.5,3791.5,2955.5z" />
+	</g>
+	<g id="personal_care_2_">
+		<circle fill="#585858" cx="2971.3" cy="2955.5" r="72.9" />
+		<path fill="#FFFFFF" d="M2998.9,2906.5c-1.5,0-2.7,1.2-2.7,2.7h-9.5c-0.8,0-1.5,0.7-1.5,1.5c0,0.8,0.7,1.5,1.5,1.5h9.5v3h-9.5    c-0.8,0-1.5,0.7-1.5,1.5c0,0.8,0.7,1.5,1.5,1.5h9.5v3h-9.5c-0.8,0-1.5,0.7-1.5,1.5c0,0.8,0.7,1.5,1.5,1.5h9.5v3h-9.5    c-0.8,0-1.5,0.7-1.5,1.5c0,0.8,0.7,1.5,1.5,1.5h9.5v3h-9.5c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5h9.5v65.3    c0,1.5,1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7v-92.4C3001.6,2907.7,3000.4,2906.5,2998.9,2906.5z" />
+		<path fill="#FFFFFF" d="M2960.9,2920.8l-1.6-14.3l-10.1,0l-1.6,14.3c2.1-0.6,4.3-0.9,6.7-0.9    C2956.6,2919.9,2958.8,2920.2,2960.9,2920.8z" />
+		<path fill="#FFFFFF" d="M2954.3,2924c-8.6,0-15.7,5.2-16.4,12l-3.5,68.4h40l-3.5-68.4C2970,2929.1,2962.9,2924,2954.3,2924z" />
+	</g>
+	<g id="menswear_2_">
+		<circle fill="#585858" cx="902.7" cy="490.2" r="72.9" />
+		<path fill="#FFFFFF" d="M948.5,457.7v69l-14.8,0v-54.5c0-1.1-0.9-2-2-2c-1.1,0-2,0.9-2,2v64.6h-54.3v-64.6c0-1.1-0.9-2-2-2    c-1.1,0-2,0.9-2,2v54.6l-14.8-0.1v-69l22.4-6.7l14.5,18.5l9.1-12.2l9.1,12.2L926,451L948.5,457.7z" />
+		<polygon fill="#FFFFFF" points="909.7,440.8 895.2,440.8 902.5,450.5   " />
+		<polygon fill="#FFFFFF" points="905,453.9 911.7,462.8 922,449.7 915.4,440.8   " />
+		<polygon fill="#FFFFFF" points="889.5,440.8 882.9,449.7 893.2,462.8 899.9,453.9   " />
+	</g>
+	<g id="maternity_2_">
+		<circle fill="#585858" cx="408.3" cy="1473.4" r="72.9" />
+		<path fill="#FFFFFF" d="M438.5,1449.1c1.1,0,1.6,0.9,1.6,2l0,16.6h10.8v-21.1c0-8-6.5-14.4-14.4-14.4h-13.3    c0,8.2-6.6,14.8-14.8,14.8s-14.8-6.6-14.8-14.8h-13.3c-8,0-14.4,6.5-14.4,14.4v21.1h10.8l0-16.6c0-1.1,0.5-2,1.6-2    c0,0,5.6-0.7,5.6,27.7c0,14.8-5.8,25.9-9.1,31.9c0,3.7,15,16.6,33.6,16.6v0c0,0,0,0,0,0s0,0,0,0v0c18.5,0,33.6-12.9,33.6-16.6    c-3.2-6-9.1-17.1-9.1-31.9C432.9,1448.4,438.5,1449.1,438.5,1449.1z M427.1,1477.1c-0.8,0.8-2.1,0.8-2.9,0    c-4.2-4.2-9.8-6.5-15.8-6.5c-6,0-11.7,2.4-15.9,6.7c-0.4,0.4-0.9,0.6-1.4,0.6c-0.5,0-1-0.2-1.4-0.6c-0.8-0.8-0.8-2.1,0-2.9    c5-5.1,11.7-7.9,18.8-7.9c7,0,13.7,2.7,18.7,7.7C427.9,1475,427.9,1476.3,427.1,1477.1z" />
+	</g>
+	<g id="kitchen_2_">
+		<circle fill="#585858" cx="3751.6" cy="2439.4" r="72.9" />
+		<path fill="#FFFFFF" d="M3745.6,2490.8c0,3.3,2.7,6,6,6c3.3,0,6-2.7,6-6v-35.1h-12V2490.8z M3751.6,2487.6c1.1,0,2,0.9,2,2    c0,1.1-0.9,2-2,2c-1.1,0-2-0.9-2-2C3749.6,2488.6,3750.5,2487.6,3751.6,2487.6z" />
+		<path fill="#FFFFFF" d="M3751.6,2379.1c-9.7,0-17.6,7.9-17.6,17.6c0,1.3,0.1,2.6,0.4,3.9l11.4,51h11.4l11.4-51.1    c0.3-1.3,0.4-2.6,0.4-3.9C3769.1,2387,3761.3,2379.1,3751.6,2379.1z M3748.9,2440.2l-9.1-40.8c-0.2-0.9-0.3-1.8-0.3-2.7    c0-5.8,4-10.6,9.5-11.8V2440.2z M3763.4,2399.4l-9.1,40.9v-55.5c5.4,1.2,9.5,6.1,9.5,11.8    C3763.7,2397.6,3763.6,2398.5,3763.4,2399.4z" />
+	</g>
+	<g id="kids_room_2_">
+		<circle fill="#585858" cx="2772.4" cy="1473.4" r="72.9" />
+		<polygon fill="#FFFFFF" points="2818.8,1449.4 2818.8,1490.3 2719.9,1490.3 2719.9,1495.7 2724,1495.7 2724,1502.3 2729.4,1502.3     2729.4,1495.7 2814.8,1495.7 2814.8,1502.3 2820.2,1502.3 2820.2,1495.7 2824.2,1495.7 2824.2,1449.4   " />
+		<path fill="#FFFFFF" d="M2787.4,1466.7H2764h-39.6c-2.5,0-4.5,2-4.5,4.5v15.2h67.5V1466.7z" />
+		<rect x="2791.4" y="1466.7" fill="#FFFFFF" width="23.3" height="19.6" />
+		<path fill="#FFFFFF" d="M2814.8,1460.1L2814.8,1460.1c-3.2-2.5-7.2-4-11.5-4c-4.3,0-8.3,1.5-11.5,4h0.1l-0.1,0v2h23.1V1460.1z" />
+		<path fill="#FFFFFF" d="M2769,1454.4c-0.1,0-0.2,0-0.3,0l-2.5,0c0.2-0.9,0.3-1.8,0.3-2.8c0-0.1,0-0.2,0-0.4l4.2-2.8    c0.1-0.1,0.2-0.1,0.3-0.2c1.4-1.1,1.4-3.5-0.2-5.5c-1.6-2-4-2.6-5.4-1.5c-0.1,0.1-0.2,0.1-0.2,0.2l-1.4,1.3    c-0.6-0.8-1.3-1.5-2-2.1c3-1.7,5-4.7,5-8.2c0-1.8-0.5-3.5-1.5-4.9c0.3-0.2,0.5-0.4,0.7-0.7c1-1.3,0.8-3.1-0.4-4    c-1.2-0.9-3-0.6-4,0.7c-0.1,0.2-0.2,0.3-0.3,0.5c-1.5-0.8-3.2-1.2-5.1-1.2c-1.8,0-3.6,0.4-5.1,1.2c-0.1-0.2-0.2-0.3-0.3-0.5    c-1-1.3-2.8-1.6-4-0.7c-1.2,0.9-1.4,2.7-0.4,4c0.2,0.3,0.4,0.5,0.7,0.7c-0.9,1.4-1.5,3.1-1.5,4.9c0,3.5,2,6.5,5,8.2    c-0.7,0.6-1.4,1.3-2,2.1l-1.6-1.5l0,0c0,0,0,0-0.1-0.1c-1.4-1.1-3.8-0.4-5.3,1.5c-1.6,2-1.6,4.4-0.2,5.5c0.1,0.1,0.2,0.1,0.3,0.2    l4.1,2.8c0,0.1,0,0.3,0,0.4c0,1,0.1,1.9,0.3,2.8l-2.5,0c-0.1,0-0.2,0-0.4,0c-1.8,0.1-3.1,2.1-2.9,4.6c0.2,2.5,1.8,4.4,3.5,4.3    c0,0,0,0,0.1,0l0,0l11.4-1.2c0.3,0,0.5,0,0.8,0s0.5,0,0.8,0l0,0l11.4,1.2l0,0c0,0,0,0,0.1,0c1.8,0.1,3.3-1.8,3.5-4.3    C2772.1,1456.5,2770.8,1454.5,2769,1454.4z M2752,1431.2c0-0.7,0.6-1.3,1.3-1.3c0.7,0,1.3,0.6,1.3,1.3c0,0.7-0.6,1.3-1.3,1.3    C2752.6,1432.5,2752,1432,2752,1431.2z M2756.1,1435.8c-1,0-1.9-0.5-1.9-1.2c0-0.6,0.8-1.2,1.9-1.2s1.9,0.5,1.9,1.2    C2758,1435.3,2757.1,1435.8,2756.1,1435.8z M2759,1432.5c-0.7,0-1.3-0.6-1.3-1.3c0-0.7,0.6-1.3,1.3-1.3c0.7,0,1.3,0.6,1.3,1.3    C2760.3,1432,2759.7,1432.5,2759,1432.5z" />
+	</g>
+	<g id="jewelry_accessories_2_">
+		<circle fill="#585858" cx="902.5" cy="2439.4" r="72.9" />
+		<path fill="#FFFFFF" d="M902.7,2421c-18.6,0-33.8,15.2-33.8,33.8c0,18.6,15.2,33.8,33.8,33.8c18.6,0,33.8-15.2,33.8-33.8    C936.6,2436.1,921.4,2421,902.7,2421z M902.7,2483.2c-15.7,0-28.4-12.7-28.4-28.4c0-15.7,12.7-28.4,28.4-28.4    c15.7,0,28.4,12.7,28.4,28.4C931.2,2470.4,918.4,2483.2,902.7,2483.2z" />
+		<polygon fill="#FFFFFF" points="917.6,2400.5 887.9,2400.5 902.7,2416.9   " />
+		<polygon fill="#FFFFFF" points="913.3,2390.5 892.2,2390.5 887.7,2396.4 917.8,2396.4   " />
+	</g>
+	<g id="intimates_sleepwear_2_">
+		<circle fill="#585858" cx="902.7" cy="1473.4" r="72.9" />
+		<path fill="#FFFFFF" d="M868.1,1466v-31.8c0-1.5-1.2-2.7-2.7-2.7s-2.7,1.2-2.7,2.7v34.4c1.6-1.1,3.3-1.9,5-2.4L868.1,1466z" />
+		<path fill="#FFFFFF" d="M942.8,1468.6v-34.3c0-1.5-1.2-2.7-2.7-2.7c-1.5,0-2.7,1.2-2.7,2.7v31.8l0.4,0.1    C939.5,1466.7,941.2,1467.5,942.8,1468.6z" />
+		<path fill="#FFFFFF" d="M906.8,1499.1h-8.1l0,0.1c-0.9,5.6-3.5,10.4-7.3,14.1h22.8c-3.8-3.6-6.4-8.5-7.3-14.1L906.8,1499.1z" />
+		<path fill="#FFFFFF" d="M911,1499.2c1.9,9.9,10.4,17,20.5,17c11.5,0,20.9-9.4,20.9-20.9c0-9.4-6.4-21.8-15-25    C932.5,1473,919.6,1481.5,911,1499.2z" />
+		<path fill="#FFFFFF" d="M853.1,1495.3c0,11.5,9.4,20.9,20.9,20.9c10.1,0,18.7-7.1,20.5-17c-8.7-17.8-21.6-26.3-26.4-28.9    C859.5,1473.5,853.1,1485.9,853.1,1495.3" />
+	</g>
+	<g id="infant_toddler_2_">
+		<circle fill="#585858" cx="1663.9" cy="1473.4" r="72.9" />
+		<path fill="#FFFFFF" d="M1679.9,1460.1c0-0.8-0.6-0.8-0.8-0.8c-1.1-0.1-2.1-0.1-2.9-0.1c0.4,0.2,0.8,0.5,1.2,0.8    c0.6,0.4,1.5,1,1.9,1.1C1679.8,1461,1679.9,1460.3,1679.9,1460.1z" />
+		<path fill="#FFFFFF" d="M1673,1460.5c-0.3,0.1-1,1.7-0.7,3.4c0.1,0.8,0.4,1.3,0.6,1.3c0.3,0,0.6,0,1,0c0.5,0,1.1,0,1.7,0    c5.9,0,8.1-0.6,8.9-1.1c0.5-0.3,1.3-2.1,1.3-5c0-2.9-0.8-4.7-1.3-5c-0.5-0.3-3.1-0.8-9.9-0.8c-0.8,0-1.4,0-1.7,0    c-0.2,0-0.3,0-0.4,0.3c-0.3,0.8,0.1,2.3,0.5,2.8c1.4,0,3.5,0,6.3,0.2c2,0.1,3.4,1.6,3.3,3.6c-0.1,2-1.5,3.6-3.4,3.6    c-0.8,0-1.7-0.5-3.3-1.6C1675.1,1461.6,1673.5,1460.6,1673,1460.5z" />
+		<path fill="#FFFFFF" d="M1692.4,1496.9c-4.7,6.9-6.7,14.2-5.6,20.1c10.6-1,22.2-21.4,23.1-34.6    C1703.4,1484.9,1696.9,1490.2,1692.4,1496.9z" />
+		<path fill="#FFFFFF" d="M1698.6,1482.1c-10.2,0-22-1-31.5-2.8c-4.8-0.9-8.7-1.9-11.5-2.9c-1.1-0.4-2.3-0.9-3.3-1.6    c-0.1,0-0.1,0-0.2,0.1c-8.8,3.3-18,5.6-26,6.5c5.2,3.2,9.9,7.7,13.6,13.1c5.1,7.5,7.4,15.6,6.4,22.5c9.1,0,24.4,0,36.5,0    c-1-6.9,1.3-15,6.4-22.5c3.4-5,7.7-9.3,12.4-12.4C1700.5,1482.1,1699.5,1482.1,1698.6,1482.1L1698.6,1482.1z" />
+		<path fill="#FFFFFF" d="M1618.7,1482.4c0.7,15.6,11.2,33.8,23.2,34.6c1.1-6-1-13.3-5.6-20.1    C1631.7,1490.2,1625.2,1484.9,1618.7,1482.4z" />
+		<path fill="#FFFFFF" d="M1662.6,1465.3c2.3-0.3,4.7-0.8,7-1.6c0-0.2,0-0.4,0-0.6c0-1.5,0.4-2.8,1-3.8c0.2-0.3,0.5-0.6,0.8-0.9    c-0.3-0.3-0.6-0.7-0.8-1.1c-0.3-0.6-0.5-1.3-0.6-1.9c-0.6-0.1-1.9-0.5-3.6-0.7c-1.9-0.3-4.3-0.6-6.6-0.5c-0.7,0-1.4-0.6-1.4-1.3    c0-0.7,0.6-1.4,1.3-1.4c0.2,0,0.3,0,0.5,0c4-0.1,8.1,0.8,9.9,1.2c0.1-0.2,0.1-0.3,0.2-0.5c0.5-1,1.5-1.6,2.7-1.6c0.4,0,1,0,1.8,0    c9.4,0,10.8,0.9,11.3,1.2c2.4,1.5,2.6,6,2.6,7.3c0,1.3-0.2,5.8-2.6,7.3c-1.7,1-4.9,1.5-10.3,1.5c-0.6,0-1.2,0-1.8,0    c-0.4,0-0.7,0-1,0c-1.1,0-2-0.6-2.6-1.6c-1,0.4-2.1,0.7-3.1,0.9c-3.7,0.9-7.4,1.2-10.7,1.3c-0.5,0-1,0-1.5,0c-0.3,0-0.7,0-1,0v1.1    v1.4c0.3,0.3,1.3,1,3.4,1.7c2.4,0.9,6.2,1.9,12,2.9c9,1.5,19.9,2.5,29.2,2.5h0c4.3,0,8.1-0.2,11.4-0.6c0,0,0,0,0.1,0v-33.1    c0,0,0,0-0.1,0c-1.8-0.1-3.7-0.1-5.7-0.1c-3,0-6.3,0.1-9.6,0.2c-7.5,0.2-15.3,0.8-22.3,1.5c-1.6,0.2-3,0.3-4.4,0.5    c-2.7,0.3-5,0.7-6.8,1c-4.8,0.8-6.6,1.6-7.3,1.9v0.5v16.1c0.3,0,0.7,0,1,0C1657.3,1465.8,1659.9,1465.7,1662.6,1465.3z" />
+		<path fill="#FFFFFF" d="M1643.7,1468c-1.3-0.2-2.5-0.4-3.5-0.7c-2.6-0.8-4.4-2.4-5.2-4.6c-1.1-3.2,0.3-7.4,3.1-9    c1.8-1,3.8-1.7,6.1-2c0.7-0.1,1.4,0.4,1.5,1.2c0.1,0.7-0.4,1.4-1.2,1.5c-2,0.2-3.6,0.8-5,1.6c-1.7,1-2.6,3.8-1.9,5.8    c0.6,1.8,2.4,2.6,3.5,2.9c0.9,0.3,1.9,0.5,3,0.6c2,0.2,3.9,0.4,5.8,0.5v-16.9c-1.3-0.3-2.8-0.6-4.3-0.9c-9.1-1.7-19.2-3-26.9-3.5    c0,6.5,0,22.5,0,33c8.9-0.1,20.4-2.4,31-6.3c0.1,0,0.2-0.1,0.2-0.1v-2.7C1647.9,1468.4,1645.8,1468.2,1643.7,1468z" />
+	</g>
+	<g id="household_supplies_2_">
+		<circle fill="#585858" cx="3396.4" cy="2955.5" r="72.9" />
+		<path fill="#FFFFFF" d="M3427.3,3006.3c-1-45.1-17.6-63.3-21.3-66.8h-16.3l0,12.5c-25.4,13.3-23.7,40.1-23.7,40.1v14.2H3427.3z" />
+		<path fill="#FFFFFF" d="M3389.6,2935.5h16.3c0-7,5.7-12.8,12.8-12.8h0.8v-0.7c0-7.9-6.4-14.3-14.3-14.3h-37.7v15h9.4    C3383.9,2922.8,3389.6,2928.5,3389.6,2935.5z" />
+		<path fill="#FFFFFF" d="M3368.2,2944.6c0.5,0,1-0.2,1.5-0.5c5.8-3.9,8.6-10.7,7.5-17.4c-0.1,0-0.2,0-0.3,0h-5.2    c1.2,4.9-0.8,10-5,12.9c-1.2,0.8-1.6,2.5-0.7,3.7C3366.5,2944.2,3367.3,2944.6,3368.2,2944.6z" />
+	</g>
+	<g id="hosiery_2_">
+		<circle fill="#585858" cx="902.7" cy="1239.2" r="72.9" />
+		<path fill="#FFFFFF" d="M895.1,1223.8l7.8,58.4l-1.1,16.8c0,0.1,0,0.2,0,0.3c0,0.8,0.4,1.7,1.2,2.2c1.2,0.8,2.9,0.5,3.7-0.7    c0.1-0.2,0.3-0.4,0.3-0.7l9.4-20.8c0.5-1.1,0.6-2.2,0.3-3.3c-0.1-0.3-0.2-0.6-0.5-1.1c0,0,0,0,0-0.1c-0.1-0.2-0.2-0.4-0.4-0.5    c-1.5-2-3.6-2.6-3.8-5.8l0-37.2l0,0c0-3.6,2.9-6.5,6.6-6.5c0.1,0,0.2,0,0.3,0l12.7,0l-19.8-12.4L895.1,1223.8z" />
+		<path fill="#FFFFFF" d="M939,1195C939,1195,939,1195,939,1195C939,1195,939,1195,939,1195c0-1.9-1.5-3.4-3.4-3.4c0,0,0,0,0,0    l-28.5,0c0,0,0,0,0,0c0,0,0,0,0,0H907l0,0c-1.8,0-3.4,0.8-4.6,2l0,0l-43.2,39l-14.4,8.6c-0.1,0.1-0.2,0.1-0.3,0.2h0    c-0.7,0.5-1.2,1.3-1.2,2.2c0,1.5,1.2,2.7,2.7,2.7c0.3,0,0.5,0,0.7-0.1l22.5-4c1.2-0.2,2.2-0.8,2.9-1.7c0.2-0.2,0.4-0.5,0.6-1    c0,0,0,0,0-0.1c0.1-0.2,0.2-0.4,0.2-0.6c0.8-2.4,0.1-4.4,2.6-6.4l36.1-24.8l27.4,17.3C939,1223.8,939,1202.1,939,1195z" />
+	</g>
+	<g id="home_improvement_lightbulb_2_">
+		<circle fill="#585858" cx="3006" cy="1915.3" r="72.9" />
+		<rect x="2988.6" y="1946.2" fill="#FFFFFF" width="36.1" height="6.8" />
+		<path fill="#FFFFFF" d="M3006.2,1966.1c5,0,9.1-4.1,9.1-9.1h-18.2C2997.1,1962,3001.2,1966.1,3006.2,1966.1z" />
+		<path fill="#FFFFFF" d="M3006.2,1867.4c-20,0-36.2,16.2-36.2,36.2c0,13.6,7.5,25.5,18.7,31.7v6.9h36.1v-7.5    c10.6-6.3,17.7-17.9,17.7-31.1C3042.4,1883.7,3026.2,1867.4,3006.2,1867.4z" />
+	</g>
+	<g id="home_furnishings_2_">
+		<circle fill="#585858" cx="3279.8" cy="1473.5" r="72.9" />
+		<rect x="3235" y="1446.2" fill="#FFFFFF" width="42.9" height="26" />
+		<rect x="3281.9" y="1446.2" fill="#FFFFFF" width="42.9" height="26" />
+		<path fill="#FFFFFF" d="M3230.9,1461.9c0-1.5-1.2-2.7-2.7-2.7c-1.5,0-2.7,1.2-2.7,2.7v10.2h5.4V1461.9z" />
+		<path fill="#FFFFFF" d="M3331.5,1459.2c-1.5,0-2.7,1.2-2.7,2.7v10.2h5.4h0v-10.2C3334.2,1460.5,3333,1459.2,3331.5,1459.2z" />
+		<rect x="3230.9" y="1491.9" fill="#FFFFFF" width="5.4" height="8.7" />
+		<rect x="3323.4" y="1491.9" fill="#FFFFFF" width="5.4" height="8.7" />
+		<rect x="3225.5" y="1476.2" fill="#FFFFFF" width="108.7" height="11.6" />
+	</g>
+	<g id="home_decor_2_">
+		<circle fill="#585858" cx="3751.6" cy="1473.4" r="72.9" />
+		<polygon fill="#FFFFFF" points="3743.6,1480.9 3748.9,1480.9 3748.9,1480.9 3787,1480.9 3781.2,1428.8 3721.9,1428.8     3716.1,1480.9 3743.6,1480.9   " />
+		<path fill="#FFFFFF" d="M3772.9,1515h-18.7c0,0,0-0.1,0-0.1V1485h-5.4v29.9c0,0,0,0.1,0,0.1h-18.7c-1.5,0-2.7,1.2-2.7,2.7    c0,1.5,1.2,2.7,2.7,2.7h42.8c1.5,0,2.7-1.2,2.7-2.7C3775.6,1516.2,3774.4,1515,3772.9,1515z" />
+		<path fill="#FFFFFF" d="M3740.9,1496c1.5,0,2.7-1.2,2.7-2.7v-8.3h-5.4v8.3C3738.2,1494.7,3739.4,1496,3740.9,1496z" />
+	</g>
+	<g id="healthcare_2_">
+		<circle fill="#585858" cx="2082.4" cy="2955.5" r="72.9" />
+		<path fill="#FFFFFF" d="M2107.4,2929.8h-50.1c-5.1,0-9.3,4.2-9.3,9.3v64.1h68.7v-64.1h0    C2116.7,2933.9,2112.6,2929.8,2107.4,2929.8z M2107.3,2973.7h-20.2c1.2-4.5,5.3-7.7,10.1-7.7    C2102.1,2965.9,2106.2,2969.2,2107.3,2973.7z M2074,2944.7c2.9-3.9,7.9-5.2,12.2-3.5l-12,16.2    C2071.3,2953.7,2071.1,2948.5,2074,2944.7z M2064.9,2987.4c-4.5-1.2-7.7-5.3-7.7-10.1c0-4.8,3.3-8.9,7.7-10.1V2987.4z     M2070.3,2987.4v-20.2c4.5,1.2,7.7,5.3,7.7,10.1C2078,2982.2,2074.8,2986.2,2070.3,2987.4z M2078.5,2960.6l12-16.2    c2.9,3.6,3.1,8.8,0.2,12.7C2087.9,2961,2082.8,2962.3,2078.5,2960.6z M2097.3,2986.8c-4.8,0-8.9-3.3-10.1-7.7h20.2    C2106.2,2983.5,2102.1,2986.8,2097.3,2986.8z" />
+		<rect x="2056" y="2905.5" fill="#FFFFFF" width="52.6" height="8.1" />
+		<rect x="2056" y="2917.6" fill="#FFFFFF" width="52.6" height="8.1" />
+	</g>
+	<g id="grocery_2_">
+		<circle fill="#585858" cx="4409.9" cy="1709.7" r="72.9" />
+		<path fill="#FFFFFF" d="M4435.7,1704.4c-12.1,0-22.4,4.6-22.4,10.1c0,1.8,1.2,3.4,2.8,3.9v30.1h39.1v-30.1    c1.6-0.5,2.8-2.1,2.8-3.9C4458.1,1709,4447.8,1704.4,4435.7,1704.4z" />
+		<path fill="#FFFFFF" d="M4388.1,1668.9h-5.4v5.3l-19,15.7v58.5h43.5V1690l-19-15.7V1668.9z M4399.4,1690h-27.8l13.9-11.4    L4399.4,1690z" />
+	</g>
+	<g id="girls_2_">
+		<circle fill="#585858" cx="1663.9" cy="2439.4" r="72.9" />
+		<path fill="#FFFFFF" d="M1658.3,2432.4h-15.1l-3.2-23.5h-8.4l0-15.4h19.3c0,7.2,5.8,13.1,13.1,13.1c7.2,0,13.1-5.8,13.1-13.1h19.3    l0,15.4h-8.4l-3.2,23.5h-14.9c-0.8-2.3-3-4-5.6-4C1661.4,2428.5,1659.2,2430.1,1658.3,2432.4z" />
+		<path fill="#FFFFFF" d="M1700.9,2485.8l-16.1-49.3h-15.2c-0.5,1.3-1.3,2.4-2.5,3.1l4.3,14c0.3,1.1-0.3,2.2-1.3,2.5    c-1.1,0.3-2.2-0.3-2.5-1.3l-3.6-11.6l-3.6,11.6c-0.3,0.9-1.1,1.4-1.9,1.4c-0.2,0-0.4,0-0.6-0.1c-1.1-0.3-1.7-1.5-1.3-2.5l4.4-14    c-1.2-0.7-2.1-1.8-2.5-3.1h-15.4l-16.1,49.3H1700.9z" />
+	</g>
+	<g id="entertainment_2_">
+		<circle fill="#585858" cx="3006" cy="490.2" r="72.9" />
+		<path fill="#FFFFFF" d="M3039.8,449.8l-55.7,11.2l0,47.7c-2.8-2.3-6.3-3.8-10.2-3.8c-8.7,0-15.8,7.1-15.8,15.8    c0,8.7,7.1,15.8,15.8,15.8c8.7,0,15.8-7.1,15.8-15.8V471l44.5-9l0,36.7c-2.8-2.3-6.3-3.8-10.2-3.8c-8.7,0-15.8,7.1-15.8,15.8    c0,8.7,7.1,15.8,15.8,15.8c8.7,0,15.8-7.1,15.8-15.8L3039.8,449.8z" />
+	</g>
+	<g id="electronics_2_">
+		<circle fill="#585858" cx="2056.8" cy="490.2" r="72.9" />
+		<path fill="#FFFFFF" d="M2104.5,526v-74.1H2009V526h42.4v7h-13.7c-1.5,0-2.7,1.2-2.7,2.7c0,1.5,1.2,2.7,2.7,2.7h38.1    c1.5,0,2.7-1.2,2.7-2.7c0-1.5-1.2-2.7-2.7-2.7h-13.7v-7H2104.5z M2017.1,517.9v-58h79.3v58H2017.1z" />
+		<rect x="2021.2" y="464" fill="#FFFFFF" width="71.2" height="49.9" />
+	</g>
+	<g id="cards_party_2_">
+		<circle fill="#585858" cx="2422.8" cy="2439.4" r="72.9" />
+		<path fill="#FFFFFF" d="M2405.5,2460.7c-0.5,0-1-0.2-1.4-0.5c-0.8-0.7-0.9-2-0.1-2.9l14.2-15.8h-37.8v40.4h40.4v-37.2L2407,2460    C2406.6,2460.4,2406,2460.7,2405.5,2460.7z" />
+		<path fill="#FFFFFF" d="M2405.9,2421c2.7,0,5.3,1.1,7.3,3l0.1,0.2l7.4,9.3v-36.4h-40.4v40.4h17.5c-1.4-1.7-2.2-3.9-2.2-6.3    C2395.8,2425.6,2400.3,2421,2405.9,2421z" />
+		<path fill="#FFFFFF" d="M2405.9,2425.1c-3.4,0-6.1,2.8-6.1,6.1c0,3.4,2.8,6.1,6.1,6.1h12.7l-8.4-10.5    C2409.1,2425.7,2407.6,2425.1,2405.9,2425.1z" />
+		<path fill="#FFFFFF" d="M2445.9,2431.2c0-3.4-2.8-6.1-6.1-6.1c-1.6,0-3.1,0.6-4.3,1.8l-8.4,10.5h12.7    C2443.1,2437.3,2445.9,2434.6,2445.9,2431.2z" />
+		<path fill="#FFFFFF" d="M2439.7,2421c5.6,0,10.2,4.6,10.2,10.2c0,2.4-0.8,4.5-2.2,6.3h17.4v-40.4h-40.4v36.5l7.6-9.6    C2434.4,2422.1,2437,2421,2439.7,2421z" />
+		<path fill="#FFFFFF" d="M2441.9,2460.1c-0.4,0.4-0.9,0.5-1.4,0.5c-0.5,0-1.1-0.2-1.5-0.7l-14.2-15.5v37.4h40.4v-40.4h-37.6    l14.5,15.8C2442.8,2458.1,2442.7,2459.4,2441.9,2460.1z" />
+	</g>
+	<g id="boys_2_">
+		<circle fill="#585858" cx="1663.9" cy="1915.3" r="72.9" />
+		<path fill="#FFFFFF" d="M1663.9,1893.9c6.2,0,11.2-5,11.2-11.2v-5.1h-22.5v5.1C1652.6,1888.8,1657.7,1893.9,1663.9,1893.9z" />
+		<path fill="#FFFFFF" d="M1679.1,1877.5v5.1c0,8.4-6.9,15.3-15.3,15.3c-8.4,0-15.3-6.9-15.3-15.3v-5.1h-30.2v24.6h18.3v62.3h55.2    v-62.3h17.5v-24.6H1679.1z" />
+	</g>
+	<g id="bedding_2_">
+		<circle fill="#585858" cx="2422.8" cy="1473.4" r="72.9" />
+		<polygon fill="#FFFFFF" points="2467,1445.7 2467,1486.6 2368.2,1486.6 2368.2,1492 2372.2,1492 2372.2,1498.6 2377.6,1498.6     2377.6,1492 2463,1492 2463,1498.6 2468.4,1498.6 2468.4,1492 2472.4,1492 2472.4,1445.7   " />
+		<path fill="#FFFFFF" d="M2435.6,1462.9h-23.4h-39.6c-2.5,0-4.5,2-4.5,4.5v15.2h67.5V1462.9z" />
+		<rect x="2439.7" y="1462.9" fill="#FFFFFF" width="23.3" height="19.6" />
+		<path fill="#FFFFFF" d="M2463,1456.4L2463,1456.4c-3.2-2.5-7.2-4-11.5-4c-4.3,0-8.3,1.5-11.5,4h0.1l-0.1,0v2h23.1V1456.4z" />
+	</g>
+	<g id="beauty_2_">
+		<circle fill="#585858" cx="2599.9" cy="2955.5" r="72.9" />
+		<path fill="#FFFFFF" d="M2613.5,2929.6h-27.3v45.4h27.3V2929.6z M2608.9,2964.8c0,1.1-0.9,2-2,2s-2-0.9-2-2v-25.1c0-1.1,0.9-2,2-2    s2,0.9,2,2V2964.8z" />
+		<path fill="#FFFFFF" d="M2609.5,2925.6h-18.7v-4.6h0c0.3-10.1,8.5-18.1,18.7-18.1V2925.6z" />
+		<path fill="#FFFFFF" d="M2581.9,2978.9v25.5h35.8v-25.5H2581.9z M2608.9,2994.1c0,1.1-0.9,2-2,2s-2-0.9-2-2v-5.2c0-1.1,0.9-2,2-2    s2,0.9,2,2V2994.1z" />
+	</g>
+	<g id="bath_2_">
+		<circle fill="#585858" cx="2422.8" cy="1915.3" r="72.9" />
+		<path fill="#FFFFFF" d="M2397.7,1895.5l-15.5,0v0.2c0,2.2-1.8,4.1-4.1,4.1s-4.1-1.8-4.1-4.1v-8.3c0-2.2,1.8-4.1,4.1-4.1    c2.2,0,4.1,1.8,4.1,4l17,0c1,0,1.9,0.4,2.7,1l7.8,6.8c1.7,1.5,1.9,4,0.4,5.7c-0.8,0.9-1.9,1.4-3.1,1.4c-1,0-1.9-0.3-2.7-1    L2397.7,1895.5z" />
+		<path fill="#FFFFFF" d="M2412.4,1904.5c5.3-5.3,12.2-7.9,19.1-7.9c6.1,0,12.2,2.1,17.2,6.2l-37.9,37.9    C2402,1930.1,2402.6,1914.4,2412.4,1904.5z" />
+		
+			<rect x="2431.6" y="1900" transform="matrix(0.7071 0.7071 -0.7071 0.7071 2075.8088 -1157.4117)" fill="#FFFFFF" width="6.9" height="54" />
+		<path fill="#FFFFFF" d="M2438.3,1953.2c-0.5,0.5-1.2,0.8-1.9,0.8s-1.4-0.3-1.9-0.8l-4.1-4.1c-1.1-1.1-1.1-2.8,0-3.8    c1.1-1.1,2.8-1.1,3.8,0l4.1,4.1C2439.4,1950.4,2439.4,1952.1,2438.3,1953.2z" />
+		<path fill="#FFFFFF" d="M2442,1933.8c1.1-1.1,2.8-1.1,3.8,0l4.1,4.1c1.1,1.1,1.1,2.8,0,3.8c-0.5,0.5-1.2,0.8-1.9,0.8    s-1.4-0.3-1.9-0.8l-4.1-4.1C2440.9,1936.6,2440.9,1934.8,2442,1933.8z" />
+		<path fill="#FFFFFF" d="M2452.1,1955.4c-0.5,0.5-1.2,0.8-1.9,0.8c-0.7,0-1.4-0.3-1.9-0.8l-4.1-4.1c-1.1-1.1-1.1-2.8,0-3.8    c1.1-1.1,2.8-1.1,3.8,0l4.1,4.1C2453.2,1952.7,2453.2,1954.4,2452.1,1955.4z" />
+		<path fill="#FFFFFF" d="M2453.5,1922.3c1.1-1.1,2.8-1.1,3.8,0l4.1,4.1c1.1,1.1,1.1,2.8,0,3.8c-0.5,0.5-1.2,0.8-1.9,0.8    c-0.7,0-1.4-0.3-1.9-0.8l-4.1-4.1C2452.5,1925,2452.5,1923.3,2453.5,1922.3z" />
+		<path fill="#FFFFFF" d="M2463.6,1943.9c-0.5,0.5-1.2,0.8-1.9,0.8c-0.7,0-1.4-0.3-1.9-0.8l-4.1-4.1c-1.1-1.1-1.1-2.8,0-3.8    c1.1-1.1,2.8-1.1,3.8,0l4.1,4.1C2464.7,1941.1,2464.7,1942.9,2463.6,1943.9z" />
+	</g>
+	<g id="baby_2_">
+		<circle fill="#585858" cx="1384.7" cy="941.9" r="72.9" />
+		<path fill="#FFFFFF" d="M1384.5,953.9c-12.9,0-23.4,10.5-23.4,23.3c0,12.9,10.5,23.3,23.4,23.3c12.9,0,23.4-10.5,23.4-23.3    C1407.9,964.4,1397.4,953.9,1384.5,953.9z M1384.5,995.2c-9.9,0-18-8.1-18-17.9c0-9.9,8.1-17.9,18-17.9c9.9,0,18,8.1,18,17.9    C1402.5,987.2,1394.4,995.2,1384.5,995.2z" />
+		<path fill="#FFFFFF" d="M1375,927.5C1375,927.5,1375,927.5,1375,927.5C1375,927.5,1375,927.5,1375,927.5L1375,927.5    c0,5.3,4.3,9.6,9.6,9.6c5.3,0,9.5-4.3,9.6-9.5h0c0-17.9,6.9-18,6.9-28.2c0-10.1-10-13.9-16.5-13.9c-6.5,0-16.5,3.7-16.5,13.9    C1368,909.5,1375,909.6,1375,927.5L1375,927.5z" />
+		<path fill="#FFFFFF" d="M1428.2,932.9c-0.9-1.5-2.8-2-4.2-1.1c-11.9,6.9-25.6,10.6-39.4,10.6c-13.8,0-27.5-3.7-39.4-10.6    c-1.5-0.9-3.4-0.4-4.2,1.1c-0.9,1.5-0.4,3.4,1.1,4.2c12.9,7.5,27.6,11.4,42.5,11.4c14.9,0,29.6-3.9,42.5-11.4    C1428.6,936.3,1429.1,934.4,1428.2,932.9z" />
+	</g>
+	<g id="automotive_2_">
+		<circle fill="#585858" cx="3751.4" cy="941.9" r="72.9" />
+		<path fill="#FFFFFF" d="M3724.2,982.1h-10.8V970h10.8V982.1z M3789.8,970H3779v12.1h10.8V970z M3796.2,934.2V961    c0,2.8-2.3,4.9-5.3,4.9h-78.4c-3,0-5.3-2.2-5.3-4.9v-26.8c0-2.8,2.3-4.9,5.3-4.9h1.2c0-0.1,2.7-24.1,2.7-24.1    c0.2-1.4,1.3-2.4,2.7-2.4h65c1.4,0,2.5,1,2.7,2.4c0,0,2.7,24,2.7,24.1h1.4C3793.9,929.2,3796.2,931.4,3796.2,934.2z M3725.2,947.6    c0-3.6-2.9-6.5-6.5-6.5c-3.6,0-6.5,2.9-6.5,6.5s2.9,6.5,6.5,6.5C3722.3,954.1,3725.2,951.2,3725.2,947.6z M3742.4,939.1    c0-1.1-0.9-2-2-2c-1.1,0-2,0.9-2,2v16.6c0,1.1,0.9,2,2,2c1.1,0,2-0.9,2-2V939.1z M3753.6,939.1c0-1.1-0.9-2-2-2s-2,0.9-2,2v16.6    c0,1.1,0.9,2,2,2s2-0.9,2-2V939.1z M3764.8,939.1c0-1.1-0.9-2-2-2s-2,0.9-2,2v16.6c0,1.1,0.9,2,2,2s2-0.9,2-2V939.1z     M3772.9,929.2c0-4.1-3.3-7.4-7.4-7.4c-4.1,0-7.4,3.3-7.4,7.4H3772.9z M3778.3,929.2h5.8l-2.4-21.1h-60.2l-2.4,21.1h33.5    c0-7.1,5.8-12.8,12.8-12.8C3772.5,916.4,3778.3,922.2,3778.3,929.2z M3790.9,947.6c0-3.6-2.9-6.5-6.5-6.5s-6.5,2.9-6.5,6.5    s2.9,6.5,6.5,6.5S3790.9,951.2,3790.9,947.6z" />
+	</g>
+	<g id="activewear_3_">
+		<circle fill="#585858" cx="902.5" cy="941.9" r="72.9" />
+		<polygon fill="#FFFFFF" points="857.4,982.1 902.5,982.1 902.5,982.1 902.5,982.1 947.6,982.1 947.6,973.9 857.4,973.9   " />
+		<path fill="#FFFFFF" d="M947.6,947.5c-10.7-11.5-12.1-37.5-12.2-50h-8.1c0,16.2-2.4,55.7-24.9,55.7s-24.8-39.4-24.9-55.7h-8.1    c0,12.4-1.4,38.5-12.2,50v22.4h90.2V947.5z" />
+	</g>
+</g>
+</svg>

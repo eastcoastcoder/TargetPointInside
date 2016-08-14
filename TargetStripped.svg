@@ -1,0 +1,446 @@
+<!-- Copyright © 2014 Point Inside Inc. -->
+<!-- Map export ruleset version 0.1 -->
+<svg version="1.1" baseProfile="basic" x="0px" y="0px" width="4900px" height="3934px" viewBox="0 0 4900 3934" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Underhallway" pi_extrude="60" pi_zoffset="-61">
+	<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-width="20" stroke-miterlimit="10" points="202,205.5 202,3199.5 202,3446.6    134.9,3446.6 134.9,3555.8 202,3555.8 439.3,3555.8 439.3,3497.3 1668.3,3497.3 1668.3,3555.8 1912.2,3555.8 1973.4,3555.8    1973.4,3446.6 1912.2,3446.6 1912.2,3201.9 3937.5,3201.9 3937.5,3352.9 4719.1,3352.9 4719.1,3201.9 4719.1,205.5  " />
+</g>
+<g id="Department">
+	<polygon fill="#D9D9D9" points="527.4,205.5 527.4,530.8 202,530.8 202,2596.1 275.6,2596.1 275.6,2634.3 335.6,2634.3    335.6,2672.5 577.2,2672.5 577.2,668 599.6,655.6 1476.2,655.6 1476.2,205.5  " />
+	<rect x="668.7" y="755.4" fill="#D9D9D9" width="1323.3" height="882.4" />
+	<rect x="668.7" y="1736.3" fill="#D9D9D9" width="1323.3" height="888.1" />
+</g>
+<g id="Services" pi_extrude="45">
+	<rect x="202" y="205.5" fill="#ECECEC" width="325.4" height="325.3" />
+	<rect x="1143.9" y="3316.3" fill="#ECECEC" width="364.1" height="181" />
+	<polygon fill="#ECECEC" points="556.5,3288.6 556.5,3257.1 351.2,3257.1 351.2,3208.4 627.6,3208.4 627.6,2786.7 351.2,2786.7    202,2786.7 202,3257.1 202,3497.3 556.5,3497.3 760.5,3497.3 760.5,3288.6  " />
+	<rect x="1003" y="2782.7" fill="#ECECEC" width="152.7" height="329.5" />
+</g>
+<g id="Inaccessible" pi_extrude="45">
+	<rect x="3937.5" y="3201.9" fill="#585858" width="781.7" height="151" />
+	<polygon fill="#585858" points="1912.2,3446.6 1912.2,3201.9 1668.3,3201.9 1554.1,3201.9 1554.1,3316.3 1508.1,3316.3    1508.1,3497.3 1554.1,3497.3 1668.3,3497.3 1668.3,3555.8 1973.4,3555.8 1973.4,3446.6  " />
+	<polygon fill="#585858" points="202,3497.3 202,3446.6 134.9,3446.6 134.9,3497.3 134.9,3555.8 439.3,3555.8 439.3,3497.3  " />
+</g>
+<g id="Checkout" pi_extrude="45">
+	<polygon fill="#585858" points="1167.6,3023.3 1167.6,3025.4 1167.6,3025.4 1168.5,3023.3 1185.3,3023.3 1185.3,3101.6    1176.4,3112.3 1155.8,3112.3 1155.8,3023.3  " />
+	<polygon fill="#585858" points="1167.6,2923 1167.6,2925.1 1167.6,2925.1 1168.5,2923 1185.3,2923 1185.3,3001.3 1176.4,3011.9    1155.8,3011.9 1155.8,2923  " />
+	<polygon fill="#585858" points="1167.6,2823 1167.6,2825.2 1167.6,2825.2 1168.5,2823 1185.3,2823 1185.3,2901.3 1176.4,2912    1155.8,2912 1155.8,2823  " />
+	<polygon fill="#585858" points="1759.5,3023.2 1759.5,2986.2 1759.5,2986.2 1761,2983.2 1789.5,2983.2 1789.5,3093.2    1774.5,3108.2 1739.5,3108.2 1739.5,3023.2  " />
+	<polygon fill="#585858" points="1651.4,3024.5 1651.4,2987.5 1651.4,2987.5 1652.9,2984.5 1681.4,2984.5 1681.4,3094.5    1666.4,3109.5 1631.4,3109.5 1631.4,3024.5  " />
+	<polygon fill="#585858" points="1540.3,3024.5 1540.3,2987.5 1540.3,2987.5 1541.8,2984.5 1570.3,2984.5 1570.3,3094.5    1555.3,3109.5 1520.3,3109.5 1520.3,3024.5  " />
+	<polygon fill="#585858" points="1429.1,3024.5 1429.1,2987.5 1429.1,2987.5 1430.6,2984.5 1459.1,2984.5 1459.1,3094.5    1444.1,3109.5 1409.1,3109.5 1409.1,3024.5  " />
+	<polygon fill="#585858" points="1319,3027.5 1319,2990.5 1319,2990.5 1320.5,2987.5 1349,2987.5 1349,3097.5 1334,3112.5    1299,3112.5 1299,3027.5  " />
+	<polygon fill="#585858" points="1289,2822.9 1289,2785.9 1289,2785.9 1290.5,2782.9 1319,2782.9 1319,2892.9 1304,2907.9    1269,2907.9 1269,2822.9  " />
+	<polygon fill="#585858" points="1399.1,2822.9 1399.1,2785.9 1399.1,2785.9 1400.6,2782.9 1429.1,2782.9 1429.1,2892.9    1414.1,2907.9 1379.1,2907.9 1379.1,2822.9  " />
+	<polygon fill="#585858" points="1510.6,2821.8 1510.6,2784.8 1510.6,2784.8 1512.1,2781.8 1540.6,2781.8 1540.6,2891.8    1525.6,2906.8 1490.6,2906.8 1490.6,2821.8  " />
+	<polygon fill="#585858" points="1618.6,2782.9 1618.6,2785.9 1618.6,2785.9 1620.1,2782.9 1648.6,2782.9 1648.6,2892.9    1633.6,2907.9 1598.6,2907.9 1598.6,2782.9  " />
+	<polygon fill="#585858" points="1727.2,2822.9 1727.2,2785.9 1727.2,2785.9 1728.7,2782.9 1757.2,2782.9 1757.2,2892.9    1742.2,2907.9 1707.2,2907.9 1707.2,2822.9  " />
+</g>
+<g id="Store_Shelves" pi_extrude="45">
+	<polygon fill="#ECECEC" points="2104.3,586.6 2104.3,562.9 2007.2,562.9 2007.2,586.6 1981.8,586.6 1981.8,623.7 2128,623.7    2128,586.6  " />
+	<rect x="1988.3" y="542.8" fill="#ECECEC" width="18.9" height="20.1" />
+	<rect x="2104.3" y="542.8" fill="#ECECEC" width="18.9" height="20.1" />
+	<polygon fill="#ECECEC" points="1779.5,2983.2 1759.5,2983.2 1759.5,3023.2 1739.5,3023.2 1739.5,2963.2 1779.5,2963.2  " />
+	<polygon fill="#ECECEC" points="1671.4,2984.5 1651.4,2984.5 1651.4,3024.5 1631.4,3024.5 1631.4,2964.5 1671.4,2964.5  " />
+	<polygon fill="#ECECEC" points="1560.3,2984.5 1540.3,2984.5 1540.3,3024.5 1520.3,3024.5 1520.3,2964.5 1560.3,2964.5  " />
+	<polygon fill="#ECECEC" points="1449.1,2984.5 1429.1,2984.5 1429.1,3024.5 1409.1,3024.5 1409.1,2964.5 1449.1,2964.5  " />
+	<polygon fill="#ECECEC" points="1339,2987.5 1319,2987.5 1319,3027.5 1299,3027.5 1299,2967.5 1339,2967.5  " />
+	<rect x="1016.8" y="2762.8" fill="#ECECEC" width="145.3" height="20" />
+	<rect x="4365.6" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="4253.4" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="4141.9" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="4030.8" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3920" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="2440.5" y="2760.6" fill="#ECECEC" width="40.3" height="342.1" />
+	<rect x="2850.1" y="2761.7" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="4027.9" y="2761.7" fill="#ECECEC" width="46.1" height="341" />
+	<rect x="3907.3" y="2761.7" fill="#ECECEC" width="60.3" height="341" />
+	<rect x="3696.7" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3593.9" y="2761.7" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3482.8" y="2761.7" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3263" y="2761.7" fill="#ECECEC" width="46.1" height="341" />
+	<rect x="3159.9" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3056.8" y="2761.7" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="2953.3" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2747.3" y="2810" fill="#ECECEC" width="42.1" height="292.7" />
+	<rect x="2644.2" y="2760.6" fill="#ECECEC" width="42.5" height="342.1" />
+	<rect x="2541.4" y="2763.1" fill="#ECECEC" width="42.1" height="339.6" />
+	<rect x="2341.3" y="2810" fill="#ECECEC" width="38.5" height="292.7" />
+	<rect x="2240" y="2761.7" fill="#ECECEC" width="40.3" height="341" />
+	<rect x="2136.9" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2034.1" y="2761.7" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="1931.3" y="2761.7" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3106.9" y="3163.7" fill="#ECECEC" width="1004.9" height="38.2" />
+	<rect x="2419.4" y="2270" fill="#ECECEC" width="42.5" height="338.3" />
+	<rect x="2522.2" y="2267" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2625.3" y="2267" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2316" y="2267.6" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2728.6" y="2267" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2831.6" y="2267.4" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2933.3" y="2267.4" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3034.2" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3142.8" y="2267.4" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3244.2" y="2267.4" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3345.1" y="2267.4" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3445.7" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3555.8" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3765.7" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3874.6" y="2267.4" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3975.2" y="2267.4" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3975.2" y="1745.9" fill="#ECECEC" width="50.5" height="342.1" />
+	<rect x="3865.2" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3754.8" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3654.2" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3552.9" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3451.5" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3350.2" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3249.6" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3148.6" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3041.1" y="1745.7" fill="#ECECEC" width="46.8" height="341" />
+	<rect x="2931.8" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2826.2" y="1745.9" fill="#ECECEC" width="46.5" height="341" />
+	<rect x="2724.5" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2620.6" y="1745.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2509.8" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2407.1" y="1745.9" fill="#ECECEC" width="42.5" height="342.1" />
+	<rect x="2296.3" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2185.9" y="1745.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2074.8" y="1745.9" fill="#ECECEC" width="50.5" height="342.1" />
+	<rect x="2074.8" y="2152.3" fill="#ECECEC" width="557.8" height="50.5" />
+	<rect x="2739.7" y="2149" fill="#ECECEC" width="532.4" height="56.7" />
+	<rect x="3419.6" y="2151.2" fill="#ECECEC" width="606.1" height="50.5" />
+	<rect x="2185.9" y="1287.9" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="2286.8" y="1287.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2388.2" y="1289" fill="#ECECEC" width="50.5" height="339.9" />
+	<rect x="2497.5" y="1287.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2598.4" y="1287.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="2700.9" y="1286.8" fill="#ECECEC" width="50.5" height="342.1" />
+	<rect x="2812" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2921.7" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2074.8" y="1286.6" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3031.7" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3252.2" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3362.2" y="1287.9" fill="#ECECEC" width="46.5" height="341" />
+	<rect x="3467.1" y="1287.9" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3567.7" y="1286.8" fill="#ECECEC" width="42.5" height="342.1" />
+	<rect x="3669.1" y="1287.9" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3770" y="1287.9" fill="#ECECEC" width="46.5" height="341" />
+	<rect x="3874.6" y="1287.9" fill="#ECECEC" width="42.5" height="341" />
+	<rect x="3975.6" y="1286.8" fill="#ECECEC" width="50.1" height="342.1" />
+	<rect x="3975.2" y="763.1" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3866.6" y="763.1" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3764.9" y="763.1" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3654.5" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3450.8" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="3553.4" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="3348.4" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="3247.1" y="763.5" fill="#ECECEC" width="42.1" height="340.7" />
+	<rect x="3135.9" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="2914" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="2811.3" y="763.5" fill="#ECECEC" width="42.1" height="345" />
+	<rect x="2708.1" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2605" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2502.2" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2399.8" y="763.5" fill="#ECECEC" width="42.1" height="345" />
+	<rect x="2296.3" y="763.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2185.9" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3419.6" y="1167" fill="#ECECEC" width="606.1" height="58.5" />
+	<rect x="2735.7" y="1167.7" fill="#ECECEC" width="581.1" height="56.7" />
+	<rect x="2075.5" y="1171" fill="#ECECEC" width="557.8" height="50.5" />
+	<rect x="2194.6" y="305.5" fill="#ECECEC" width="46.5" height="340.7" />
+	<rect x="2299.3" y="305.5" fill="#ECECEC" width="42.5" height="227.7" />
+	<rect x="2399.8" y="305.5" fill="#ECECEC" width="42.5" height="227.7" />
+	<rect x="2500.4" y="305.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="2601.7" y="305.5" fill="#ECECEC" width="42.1" height="340.7" />
+	<rect x="2702.3" y="318.6" fill="#ECECEC" width="33.1" height="327.6" />
+	<rect x="2794.9" y="304.8" fill="#ECECEC" width="33" height="231" />
+	<rect x="2888.3" y="304.4" fill="#ECECEC" width="33.1" height="231" />
+	<rect x="3075.6" y="304.4" fill="#ECECEC" width="33.1" height="231" />
+	<rect x="3167.2" y="304.8" fill="#ECECEC" width="33" height="231" />
+	<rect x="3258.7" y="318.6" fill="#ECECEC" width="33" height="327.6" />
+	<rect x="3352.4" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3463.2" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="3574.6" y="305.5" fill="#ECECEC" width="50.1" height="244.1" />
+	<rect x="3685" y="305.5" fill="#ECECEC" width="50.5" height="244.1" />
+	<rect x="3808.9" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="4476" y="305.5" fill="#ECECEC" width="50.1" height="340.7" />
+	<rect x="4586.1" y="305.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="1761" y="205.5" fill="#ECECEC" width="1939" height="24.2" />
+	<rect x="4167" y="3025.7" fill="#ECECEC" width="438" height="62.5" />
+	<rect x="4167" y="2899.3" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="2598.2" fill="#ECECEC" width="110" height="63.9" />
+	<rect x="4338.4" y="2598.2" fill="#ECECEC" width="110" height="63.9" />
+	<rect x="4167" y="1234.9" fill="#ECECEC" width="439.8" height="64.6" />
+	<rect x="4167" y="763.5" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="2982" y="319.7" fill="#ECECEC" width="33" height="326.5" />
+	<rect x="4167" y="2430.8" fill="#ECECEC" width="427.4" height="88.3" />
+	<rect x="4167" y="2248.9" fill="#ECECEC" width="436.2" height="85.3" />
+	<rect x="4167" y="2084" fill="#ECECEC" width="428.9" height="67.9" />
+	<rect x="4167" y="1002.8" fill="#ECECEC" width="442" height="42.5" />
+	<rect x="4681.2" y="785.3" fill="#ECECEC" width="37.9" height="1999.6" />
+	<rect x="1653.5" y="305.5" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="1550" y="306.8" fill="#ECECEC" width="42.5" height="340.7" />
+	<rect x="1769" y="305.5" fill="#ECECEC" width="42.1" height="340.7" />
+	<rect x="1869.6" y="305.5" fill="#ECECEC" width="46.5" height="340.7" />
+	<rect x="3024.8" y="763.5" fill="#ECECEC" width="50.5" height="339.9" />
+	<rect x="4167" y="1963" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="1368.5" fill="#ECECEC" width="438" height="56.7" />
+	<rect x="4167" y="1494.2" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="1614.4" fill="#ECECEC" width="438" height="46.5" />
+	<rect x="4167" y="1729.9" fill="#ECECEC" width="438" height="42.5" />
+	<rect x="4167" y="1842.1" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="883.3" fill="#ECECEC" width="438" height="50.5" />
+	<rect x="4167" y="1115" fill="#ECECEC" width="439.8" height="50.5" />
+	<rect x="3799.8" y="2761.7" fill="#ECECEC" width="46.1" height="338.8" />
+	<rect x="2207.7" y="3177.5" fill="#ECECEC" width="774.6" height="24.4" />
+	<rect x="851.6" y="1315.9" fill="#ECECEC" width="181.6" height="36.3" />
+	<rect x="851.6" y="1224" fill="#ECECEC" width="181.6" height="36.3" />
+	<rect x="851.6" y="1132.1" fill="#ECECEC" width="181.6" height="36.3" />
+	<rect x="684.5" y="1039.9" fill="#ECECEC" width="326.9" height="36.3" />
+	<rect x="684.5" y="947.6" fill="#ECECEC" width="326.9" height="36.3" />
+	<rect x="1218.8" y="769.3" fill="#ECECEC" width="62.5" height="438" />
+	<rect x="1339.7" y="769.3" fill="#ECECEC" width="42.1" height="438" />
+	<rect x="1440.3" y="769.3" fill="#ECECEC" width="46.5" height="438" />
+	<rect x="1545.3" y="769.3" fill="#ECECEC" width="74.8" height="438" />
+	<rect x="1678.2" y="769.3" fill="#ECECEC" width="70.5" height="438" />
+	<rect x="1927.7" y="769.3" fill="#ECECEC" width="42.1" height="442" />
+	<rect x="1264.5" y="510.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="839.6" y="380" fill="#ECECEC" width="43.3" height="98.1" />
+	<rect x="1264.5" y="281.6" fill="#ECECEC" width="36.3" height="181.6" />
+	<rect x="1356.4" y="510.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="1356.4" y="281.2" fill="#ECECEC" width="36.3" height="181.6" />
+	<rect x="915.9" y="205.5" fill="#ECECEC" width="242.2" height="24.2" />
+	<rect x="661.7" y="205.5" fill="#ECECEC" width="242.2" height="24.2" />
+	<rect x="684.5" y="2479.5" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="684.5" y="2275.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="780" y="2479.5" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="779.3" y="2275.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="874.1" y="2275.7" fill="#ECECEC" width="36.3" height="132.9" />
+	<rect x="967.8" y="2275.7" fill="#ECECEC" width="24.3" height="132.9" />
+	<rect x="1052" y="2275.7" fill="#ECECEC" width="23.6" height="132.9" />
+	<rect x="684.9" y="1743.3" fill="#ECECEC" width="30.1" height="323.2" />
+	<rect x="775.3" y="1741.9" fill="#ECECEC" width="30.5" height="159.8" />
+	<rect x="1424.8" y="1850.1" fill="#ECECEC" width="30.5" height="146.7" />
+	<rect x="1766.1" y="1850.1" fill="#ECECEC" width="30.5" height="146.7" />
+	<rect x="1766.1" y="2342.1" fill="#ECECEC" width="30.5" height="146.7" />
+	<rect x="1424.8" y="2342.1" fill="#ECECEC" width="30.5" height="146.7" />
+	<rect x="775.3" y="1951.1" fill="#ECECEC" width="30.5" height="111.5" />
+	<rect x="957.1" y="1998.6" fill="#ECECEC" width="30.5" height="63.9" />
+	<rect x="866.5" y="1743.3" fill="#ECECEC" width="30.1" height="323.2" />
+	<rect x="957.3" y="1741.9" fill="#ECECEC" width="30.1" height="208.5" />
+	<rect x="1237.7" y="2008.1" fill="#ECECEC" width="36.3" height="133.3" />
+	<rect x="1237.7" y="2189.3" fill="#ECECEC" width="36.3" height="133.3" />
+	<rect x="1237.7" y="1828.1" fill="#ECECEC" width="36.3" height="133.3" />
+	<rect x="1200.5" y="1449.2" fill="#ECECEC" width="36.3" height="133.3" />
+	<rect x="1237.7" y="2369.7" fill="#ECECEC" width="36.3" height="133.3" />
+	<polygon fill="#ECECEC" points="1139.2,1826.1 1139.2,2146.1 769.9,2146.1 769.9,2194.4 1139.2,2194.4 1139.2,2510 1187.5,2510    1187.5,1826.1  " />
+	<rect x="1089.8" y="767.9" fill="#ECECEC" width="61.7" height="538.6" />
+	<rect x="1393.8" y="1266.1" fill="#ECECEC" width="74.8" height="42.5" />
+	<rect x="336.6" y="1686.8" fill="#ECECEC" width="100" height="42.5" />
+	<rect x="336.6" y="2045.3" fill="#ECECEC" width="100" height="42.5" />
+	<rect x="470.6" y="1865.4" fill="#ECECEC" width="103.5" height="42.5" />
+	<rect x="1522.4" y="1266.1" fill="#ECECEC" width="74.8" height="42.5" />
+	<rect x="1206.1" y="1266.1" fill="#ECECEC" width="133.3" height="42.5" />
+	<rect x="1383.3" y="1358" fill="#ECECEC" width="42.5" height="231.7" />
+	<rect x="1047.3" y="1743.3" fill="#ECECEC" width="30.1" height="323.2" />
+	<rect x="202" y="668.1" fill="#ECECEC" width="0" height="242.1" />
+	<rect x="202" y="2169.3" fill="#ECECEC" width="0" height="241.9" />
+	<rect x="202" y="1818.1" fill="#ECECEC" width="0" height="338.8" />
+	<rect x="202" y="1164.4" fill="#ECECEC" width="0" height="387.5" />
+	<rect x="3370.9" y="2761.7" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="3664.4" y="2267.4" fill="#ECECEC" width="42.1" height="341" />
+	<rect x="3142.1" y="1287.9" fill="#ECECEC" width="50.5" height="341" />
+	<rect x="2074.8" y="763.5" fill="#ECECEC" width="50.5" height="340.7" />
+	<rect x="2887.9" y="572.8" fill="#ECECEC" width="33" height="73.4" />
+	<rect x="2794.9" y="572.8" fill="#ECECEC" width="33" height="73.4" />
+	<rect x="3075.8" y="572.8" fill="#ECECEC" width="33" height="73.4" />
+	<rect x="3167.2" y="572.8" fill="#ECECEC" width="33" height="73.4" />
+	<rect x="1974.5" y="307.4" fill="#ECECEC" width="50.5" height="171.4" />
+	<rect x="2085" y="307.5" fill="#ECECEC" width="50.5" height="171.4" />
+	<rect x="202" y="2423.5" fill="#ECECEC" width="0" height="145.5" />
+	<rect x="202" y="1563.4" fill="#ECECEC" width="0" height="243.2" />
+	<rect x="202" y="923.6" fill="#ECECEC" width="0" height="96" />
+	<rect x="202" y="559.6" fill="#ECECEC" width="0" height="96" />
+	<rect x="240.7" y="530.8" fill="#ECECEC" width="96" height="24.3" />
+	<rect x="527.4" y="240.1" fill="#ECECEC" width="24.3" height="96" />
+	<rect x="554.1" y="205.5" fill="#ECECEC" width="96" height="24.2" />
+	<polygon fill="#ECECEC" points="1467,239.1 1467,205.5 1448.7,205.5 1448.7,239.1 1448.7,654.5 1492.2,654.5 1492.2,239.1  " />
+	<rect x="1169.6" y="205.5" fill="#ECECEC" width="243" height="24.2" />
+	<rect x="1492.2" y="205.5" fill="#ECECEC" width="145.9" height="24.2" />
+	<rect x="2299.2" y="572.8" fill="#ECECEC" width="42.5" height="73.4" />
+	<rect x="2399.6" y="572.4" fill="#ECECEC" width="42.5" height="73.4" />
+	<rect x="3574.6" y="593.8" fill="#ECECEC" width="50.1" height="52.4" />
+	<rect x="3685.1" y="595" fill="#ECECEC" width="50.1" height="52.4" />
+	<rect x="3822.3" y="205.5" fill="#ECECEC" width="873.1" height="23.4" />
+	<rect x="4695.4" y="232.2" fill="#ECECEC" width="23.7" height="435.4" />
+	<polygon fill="#ECECEC" points="2075.8,2297 2075.8,2304.8 2075.8,2606.6 2096.5,2606.6 2096.5,2304.8 2096.5,2297  " />
+	<polygon fill="#ECECEC" points="2156.5,2297 2156.5,2304.8 2156.5,2606.6 2177.2,2606.6 2177.2,2304.8 2177.2,2297  " />
+	<polygon fill="#ECECEC" points="2236.4,2297 2236.4,2304.8 2236.4,2606.6 2257.1,2606.6 2257.1,2304.8 2257.1,2297  " />
+	<rect x="4513.5" y="2590.9" fill="#ECECEC" width="96" height="79.1" />
+	<rect x="4696.1" y="2799.4" fill="#ECECEC" width="23" height="363.2" />
+	<rect x="4221.8" y="3163.7" fill="#ECECEC" width="474.3" height="38.2" />
+	<rect x="1870.7" y="3173.1" fill="#ECECEC" width="231" height="28.8" />
+	<polygon fill="#ECECEC" points="1832.5,2761.7 1832.5,2784.9 1832.5,2979.4 1851,2979.4 1851,3173.1 1870.7,3173.1 1870.7,2784.9    1870.7,2761.7  " />
+	<rect x="979.4" y="2786.7" fill="#ECECEC" width="23.6" height="120.9" />
+	<rect x="842.5" y="2909.1" fill="#ECECEC" width="136.9" height="23.6" />
+	<rect x="877.6" y="2762.8" fill="#ECECEC" width="42.9" height="96.6" />
+	<polygon fill="#ECECEC" points="1036.2,2464.1 977.6,2464.1 977.6,2485.6 1027.1,2485.6 1057.9,2515.3 1058.2,2515.6    1058.2,2562.9 1058.1,2563 1027.1,2592.8 930.3,2592.8 899.3,2563 899.5,2563 899.5,2515.3 930.3,2485.6 930.3,2464.1    921.1,2464.1 877,2506.6 877,2571.8 921.1,2614.4 1036.2,2614.4 1080.4,2571.8 1080.4,2506.6  " />
+	<polygon fill="#ECECEC" points="1733.7,2117 1733.7,2117 1444.7,2117 1444.7,2117 1414.9,2117 1414.9,2153.7 1444.7,2153.7    1444.7,2153.7 1733.7,2153.7 1733.7,2153.7 1761.4,2153.7 1761.4,2117  " />
+	<rect x="1806.9" y="769.3" fill="#ECECEC" width="61.5" height="438" />
+	<polygon fill="#ECECEC" points="4167,2742.1 4167,2823.4 4208.4,2823.4 4595.9,2823.4 4595.9,2799.4 4595.9,2742.1  " />
+	<rect x="1598.6" y="2762.9" fill="#ECECEC" width="40" height="20" />
+	<rect x="202" y="559.6" fill="#ECECEC" width="24.2" height="96" />
+	<rect x="202" y="668.1" fill="#ECECEC" width="24.2" height="242.1" />
+	<rect x="202" y="923.6" fill="#ECECEC" width="24.2" height="96" />
+	<rect x="202" y="1164.4" fill="#ECECEC" width="24.5" height="387.5" />
+	<rect x="202" y="1563.4" fill="#ECECEC" width="24.2" height="243.2" />
+	<rect x="202" y="1818.1" fill="#ECECEC" width="24.2" height="338.8" />
+	<rect x="202" y="2169.3" fill="#ECECEC" width="24.2" height="241.9" />
+	<rect x="202" y="2423.5" fill="#ECECEC" width="24.2" height="145.5" />
+	<rect x="1269" y="2762.9" fill="#ECECEC" width="40" height="20" />
+	<rect x="1379.1" y="2762.9" fill="#ECECEC" width="40" height="20" />
+	<rect x="1490.6" y="2761.8" fill="#ECECEC" width="40" height="20" />
+	<rect x="1707.2" y="2762.9" fill="#ECECEC" width="40" height="20" />
+</g>
+<g id="Department_Shapes" display="none" pi_extrude="45">
+	<g id="Dept_44">
+		<polygon fill="#FF5B4D" points="202,882.5 202,2614.4 577.2,2614.4 577.2,882.5   " />
+	</g>
+	<g id="Dept_0">
+		<polygon fill="#FF5B4D" points="627.6,3068.5 627.6,3200.9 668.4,3200.9 668.4,3068.5   " />
+	</g>
+	<g id="Dept_47">
+		<polygon fill="#FF5B4D" points="683.7,1736.3 683.7,2170.9 1163.5,2170.9 1163.5,1736.3   " />
+	</g>
+	<g id="Dept_26">
+		<polygon fill="#FF5B4D" points="683.7,1076.7 1011.4,1076.7 1011.4,948.3 683.7,948.3   " />
+	</g>
+	<g id="Dept_56">
+		<polygon fill="#FF5B4D" points="683.7,942 683.7,1441.4 1138.1,1441.4 1138.1,942   " />
+	</g>
+	<g id="Dept_30">
+		<polygon fill="#FF5B4D" points="683.7,1637.8 1090.7,1637.8 1090.7,1499.3 683.7,1499.3   " />
+	</g>
+	<g id="Dept_5">
+		<polygon fill="#FF5B4D" points="683.7,755.4 683.7,966.4 1029.7,966.4 1029.7,755.4   " />
+	</g>
+	<g id="Dept_43">
+		<polygon fill="#FF5B4D" points="842.5,2753.5 842.5,2933.4 1003.1,2933.4 1003.1,2753.5   " />
+	</g>
+	<g id="Dept_31">
+		<polygon fill="#FF5B4D" points="683.7,2146.6 683.7,2614.4 1163.5,2614.4 1163.5,2146.6   " />
+	</g>
+	<g id="Dept_36">
+		<polygon fill="#FF5B4D" points="280.3,283.4 280.3,820.4 1200.4,820.4 1200.4,283.4   " />
+	</g>
+	<g id="Dept_59">
+		<polygon fill="#FF5B4D" points="1218.6,755.4 1218.6,1425.3 1972,1425.3 1972,755.4   " />
+	</g>
+	<g id="Dept_71">
+		<polygon fill="#FF5B4D" points="1114.1,755.4 1114.1,1283 1486.7,1283 1486.7,755.4   " />
+	</g>
+	<g id="Dept_57">
+		<polygon fill="#FF5B4D" points="1163.5,2486.6 1366.6,2486.6 1366.6,1855 1163.5,1855   " />
+	</g>
+	<g id="Dept_8">
+		<polygon fill="#FF5B4D" points="1016.7,2753.5 1016.7,2982.4 1847.9,2982.4 1847.9,2753.5   " />
+	</g>
+	<g id="Dept_53">
+		<polygon fill="#FF5B4D" points="527.4,205.5 527.4,655.6 1492,655.6 1492,205.5   " />
+	</g>
+	<g id="Dept_20">
+		<polygon fill="#FF5B4D" points="1139.1,2099.6 1139.1,2614.4 1972,2614.4 1972,2099.6   " />
+	</g>
+	<g id="Dept_6">
+		<polygon fill="#FF5B4D" points="1139.1,1736.3 1139.1,2135.8 1972,2135.8 1972,1736.3   " />
+	</g>
+	<g id="Dept_29">
+		<polygon fill="#FF5B4D" points="1137.3,1267.1 1137.3,1637.8 1972,1637.8 1972,1267.1   " />
+	</g>
+	<g id="Dept_50">
+		<polygon fill="#FF5B4D" points="2074.7,2178.2 2074.7,2614.4 2975.6,2614.4 2975.6,2178.2   " />
+	</g>
+	<g id="Dept_15">
+		<polygon fill="#FF5B4D" points="2601.3,305.1 2601.3,655.6 3377.3,655.6 3377.3,305.1   " />
+	</g>
+	<g id="Dept_14">
+		<polygon fill="#FF5B4D" points="1466.8,205.5 1466.8,655.6 2643.6,655.6 2643.6,205.5   " />
+	</g>
+	<g id="Dept_69">
+		<polygon fill="#FF5B4D" points="1832.3,3201.9 2280.2,3201.9 2280.2,2753.5 1832.3,2753.5   " />
+	</g>
+	<g id="Dept_68">
+		<polygon fill="#FF5B4D" points="2207.7,2753.5 2207.7,3201.9 2995.5,3201.9 2995.5,2753.5   " />
+	</g>
+	<g id="Dept_52">
+		<polygon fill="#FF5B4D" points="2074.7,755.4 2074.7,1193.7 3316.3,1193.7 3316.3,755.4   " />
+	</g>
+	<g id="Dept_70">
+		<polygon fill="#FF5B4D" points="2953.1,2753.5 2953.1,3103.3 3309,3103.3 3309,2753.5   " />
+	</g>
+	<g id="Dept_33">
+		<polygon fill="#FF5B4D" points="3312.3,655.6 3505.9,655.6 3505.9,205.5 3312.3,205.5   " />
+	</g>
+	<g id="Dept_37">
+		<polygon fill="#FF5B4D" points="3462.9,205.5 3462.9,655.6 3919.1,655.6 3919.1,205.5   " />
+	</g>
+	<g id="Dept_27">
+		<polygon fill="#FF5B4D" points="3106.7,2753.5 3106.7,3201.9 3635.7,3201.9 3635.7,2753.5   " />
+	</g>
+	<g id="Dept_72">
+		<polygon fill="#FF5B4D" points="2735.3,1637.8 4027.9,1637.8 4027.9,1193.7 2735.3,1193.7   " />
+	</g>
+	<g id="Dept_12">
+		<polygon fill="#FF5B4D" points="2074.7,1196.8 2074.7,2178.2 3088.2,2178.2 3088.2,1196.8   " />
+		<polygon fill="#FF5B4D" points="4027.9,1559 4027.9,1559 4027.9,1312.8 4027.9,1312.8   " />
+	</g>
+	<g id="Dept_73">
+		<polygon fill="#FF5B4D" points="2739.6,1736.3 2739.6,2614.4 4027.9,2614.4 4027.9,1736.3   " />
+		<polygon fill="#FF5B4D" points="3593.3,2753.5 3593.3,3103.3 3738.7,3103.3 3738.7,2753.5   " />
+	</g>
+	<g id="Dept_45">
+		<polygon fill="#FF5B4D" points="3833.9,205.5 3833.9,814.6 4719.1,814.6 4719.1,205.5   " />
+	</g>
+	<g id="Dept_48">
+		<polygon fill="#FF5B4D" points="3160.9,755.4 3160.9,1200.8 4027.9,1200.8 4027.9,755.4   " />
+	</g>
+	<g id="Dept_40">
+		<polygon fill="#FF5B4D" points="3627.1,2753.5 3627.1,3201.9 4111.4,3201.9 4111.4,2753.5   " />
+	</g>
+	<g id="Dept_74">
+		<polygon fill="#FF5B4D" points="4164.3,755.4 4164.3,1938.4 4719.1,1938.4 4719.1,755.4   " />
+	</g>
+	<g id="Dept_17">
+		<polygon fill="#FF5B4D" points="4164.3,1938.4 4164.3,2465.4 4719.1,2465.4 4719.1,1938.4   " />
+	</g>
+	<g id="Dept_11">
+		<polygon fill="#FF5B4D" points="4303.7,2519.7 4352,2519.7 4352,2476 4303.7,2476   " />
+	</g>
+	<g id="Dept_42">
+		<polygon fill="#FF5B4D" points="4164.3,2787.1 4402.3,2787.1 4402.3,2598.8 4164.3,2598.8   " />
+	</g>
+	<g id="Dept_13">
+		<polygon fill="#FF5B4D" points="4164.3,1369.4 4164.3,2334.6 4604.3,2334.6 4604.3,1369.4   " />
+	</g>
+	<g id="Dept_4">
+		<polygon fill="#FF5B4D" points="4338.1,2663 4448,2663 4448,2598.8 4338.1,2598.8   " />
+	</g>
+	<g id="Dept_10">
+		<polygon fill="#FF5B4D" points="4497.4,2281.3 4497.4,2785.5 4719.1,2785.5 4719.1,2281.3   " />
+		<polygon fill="#FF5B4D" points="4164.3,2807.7 4201.8,2807.7 4201.8,2776.2 4164.3,2776.2   " />
+	</g>
+	<g id="Dept_35">
+		<polygon fill="#FF5B4D" points="4206.7,2431.3 4206.7,2670.3 4610.6,2670.3 4610.6,2431.3   " />
+	</g>
+	<g id="Dept_28">
+		<polygon fill="#FF5B4D" points="4164.3,2800 4164.3,3201.9 4719.1,3201.9 4719.1,2800   " />
+	</g>
+</g>
+<g id="Copyright">
+	
+		<text transform="matrix(1 0 0 1 4447.2334 3924.7183)" fill="#DEDEDE" font-family="'HelveticaNeueLT-Medium'" font-size="42" letter-spacing="2">© 2016 Point Inside</text>
+</g>
+
+
+
+
+</svg>
